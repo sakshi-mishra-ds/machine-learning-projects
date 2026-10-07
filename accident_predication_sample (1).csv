@@ -1,0 +1,501 @@
+State Name	City Name	Year	Month	Day of Week	Time of Day	Accident Severity	Number of Vehicles Involved	Vehicle Type Involved	Number of Casualties	Number of Fatalities	Weather Conditions	Road Type	Road Condition	Lighting Conditions	Traffic Control Presence	Speed Limit (km/h)	Driver Age	Driver Gender	Driver License Status	Alcohol Involvement	Accident Location Details
+Jammu and Kashmir	Unknown	2021	May	Monday	01:46	Serious	5	Cycle	0	4	Hazy	National Highway	Wet	Dark	Signs	61	66	Male		Yes	Curve
+Uttar Pradesh	Lucknow	2018	January	Wednesday	21:30	Minor	5	Truck	5	4	Hazy	Urban Road	Dry	Dusk	Signs	92	60	Male		Yes	Straight Road
+Chhattisgarh	Unknown	2023	May	Wednesday	05:37	Minor	5	Pedestrian	6	5	Foggy	National Highway	Under Construction	Dawn	Signs	120	26	Female		No	Bridge
+Uttar Pradesh	Lucknow	2020	June	Saturday	00:31	Minor	3	Bus	10	5	Rainy	State Highway	Dry	Dark	Signals	76	34	Female	Valid	Yes	Straight Road
+Sikkim	Unknown	2021	August	Thursday	11:21	Minor	5	Cycle	7	1	Foggy	Urban Road	Wet	Dusk	Signs	115	30	Male		No	Intersection
+Meghalaya	Unknown	2020	November	Tuesday	08:04	Serious	1	Truck	6	2	Stormy	Village Road	Dry	Daylight	Police Checkpost	48	44	Male	Expired	Yes	Bridge
+Sikkim	Unknown	2021	October	Monday	18:55	Fatal	2	Two-Wheeler	9	5	Foggy	Urban Road	Under Construction	Dusk	Police Checkpost	111	48	Female		No	Straight Road
+Himachal Pradesh	Unknown	2022	December	Wednesday	11:40	Minor	3	Truck	1	5	Clear	State Highway	Damaged	Dark	Police Checkpost	62	42	Female	Valid	No	Curve
+Rajasthan	Jodhpur	2021	July	Saturday	08:26	Fatal	3	Truck	7	1	Clear	Urban Road	Damaged	Dawn	Signs	35	53	Male	Valid	No	Straight Road
+Rajasthan	Jodhpur	2018	August	Saturday	02:01	Fatal	2	Car	3	2	Foggy	State Highway	Under Construction	Dark	Signs	110	50	Female		Yes	Straight Road
+Himachal Pradesh	Unknown	2020	April	Thursday	22:25	Minor	5	Pedestrian	1	3	Hazy	National Highway	Dry	Dusk	Signals	35	49	Female		No	Straight Road
+Uttar Pradesh	Kanpur	2018	August	Tuesday	16:49	Fatal	3	Bus	1	4	Clear	National Highway	Wet	Dusk		46	41	Male	Valid	No	Curve
+Assam	Unknown	2021	September	Saturday	23:22	Serious	1	Cycle	2	3	Hazy	Village Road	Under Construction	Daylight	Signs	46	55	Female		No	Straight Road
+Bihar	Unknown	2020	June	Wednesday	06:47	Serious	5	Car	0	0	Foggy	State Highway	Wet	Dusk	Signals	98	44	Female	Valid	No	Bridge
+Telangana	Unknown	2021	August	Friday	18:57	Serious	3	Bus	6	3	Foggy	National Highway	Wet	Dawn	Police Checkpost	47	54	Male	Valid	No	Intersection
+Arunachal Pradesh	Unknown	2018	August	Friday	12:06	Minor	4	Cycle	4	5	Stormy	State Highway	Under Construction	Dusk	Signals	60	44	Female		No	Curve
+Andhra Pradesh	Tirupati	2019	October	Sunday	12:47	Minor	2	Cycle	7	4	Rainy	Village Road	Damaged	Dark	Signs	90	51	Female	Valid	No	Curve
+Karnataka	Bangalore	2023	October	Thursday	18:59	Fatal	5	Car	10	2	Hazy	Village Road	Wet	Dark	Signs	114	51	Female	Expired	No	Intersection
+Sikkim	Unknown	2023	November	Wednesday	10:51	Serious	3	Auto-Rickshaw	7	1	Rainy	National Highway	Under Construction	Dawn	Signs	80	55	Male	Valid	Yes	Bridge
+Chhattisgarh	Unknown	2022	April	Saturday	06:39	Fatal	3	Car	7	5	Foggy	State Highway	Wet	Daylight	Signs	46	57	Female	Valid	Yes	Straight Road
+Madhya Pradesh	Unknown	2018	June	Tuesday	08:10	Serious	5	Two-Wheeler	6	3	Rainy	Urban Road	Dry	Dusk	Signals	30	20	Female	Expired	Yes	Bridge
+Puducherry	Unknown	2022	February	Wednesday	01:35	Serious	2	Car	10	3	Hazy	Urban Road	Dry	Dusk	Signs	55	41	Female	Valid	No	Straight Road
+Uttar Pradesh	Varanasi	2022	July	Friday	18:51	Fatal	1	Two-Wheeler	9	4	Clear	National Highway	Wet	Dawn	Signals	34	23	Female	Expired	Yes	Bridge
+Maharashtra	Nagpur	2022	December	Tuesday	13:34	Serious	3	Cycle	1	3	Foggy	National Highway	Dry	Daylight		106	48	Male		No	Intersection
+Jammu and Kashmir	Unknown	2022	February	Monday	03:29	Serious	1	Two-Wheeler	1	1	Foggy	Urban Road	Damaged	Dawn	Police Checkpost	31	20	Male		No	Straight Road
+Tamil Nadu	Madurai	2018	August	Tuesday	11:10	Fatal	3	Auto-Rickshaw	2	2	Stormy	National Highway	Wet	Daylight	Police Checkpost	92	43	Female		Yes	Intersection
+Madhya Pradesh	Unknown	2019	April	Wednesday	15:58	Minor	2	Pedestrian	7	5	Clear	State Highway	Under Construction	Daylight	Police Checkpost	71	65	Male		No	Straight Road
+Madhya Pradesh	Unknown	2023	August	Wednesday	00:54	Fatal	1	Car	10	1	Stormy	National Highway	Damaged	Dusk		90	64	Female	Expired	No	Bridge
+Chandigarh	Unknown	2019	March	Friday	15:42	Serious	2	Bus	8	0	Stormy	Village Road	Wet	Daylight	Signals	83	31	Female	Expired	No	Curve
+Uttar Pradesh	Varanasi	2018	May	Sunday	10:53	Minor	3	Two-Wheeler	2	1	Hazy	National Highway	Under Construction	Dusk		33	24	Female	Valid	Yes	Straight Road
+Gujarat	Surat	2019	March	Thursday	15:01	Fatal	2	Car	7	0	Stormy	State Highway	Under Construction	Dawn	Signs	69	51	Female	Valid	No	Bridge
+Uttar Pradesh	Lucknow	2022	November	Tuesday	09:25	Fatal	1	Bus	0	3	Clear	National Highway	Under Construction	Dark	Signals	53	63	Male	Valid	No	Straight Road
+Maharashtra	Mumbai	2020	July	Saturday	23:21	Serious	5	Bus	6	2	Hazy	Urban Road	Damaged	Dawn	Signs	82	68	Female	Valid	No	Curve
+Odisha	Unknown	2018	July	Thursday	12:01	Minor	3	Auto-Rickshaw	7	2	Stormy	State Highway	Damaged	Dark	Signs	79	41	Male	Valid	Yes	Curve
+Telangana	Unknown	2023	August	Saturday	17:37	Minor	2	Pedestrian	8	3	Stormy	National Highway	Dry	Dawn		30	40	Male		Yes	Bridge
+West Bengal	Durgapur	2023	February	Sunday	11:02	Serious	3	Cycle	9	5	Hazy	Village Road	Damaged	Dark		106	25	Female	Expired	Yes	Straight Road
+Kerala	Unknown	2019	January	Tuesday	16:03	Fatal	2	Car	3	1	Foggy	State Highway	Damaged	Dawn		102	32	Female	Expired	No	Bridge
+Assam	Unknown	2020	July	Thursday	19:18	Minor	2	Car	1	5	Foggy	National Highway	Under Construction	Dawn		48	69	Female	Expired	No	Curve
+Nagaland	Unknown	2018	June	Saturday	17:43	Minor	5	Truck	5	3	Foggy	Urban Road	Under Construction	Dusk	Police Checkpost	32	65	Male	Valid	No	Intersection
+Meghalaya	Unknown	2022	February	Monday	06:20	Serious	1	Truck	4	1	Hazy	Urban Road	Under Construction	Dusk	Signs	59	60	Male	Valid	No	Straight Road
+Chhattisgarh	Unknown	2022	February	Wednesday	17:08	Fatal	2	Truck	5	5	Rainy	National Highway	Under Construction	Daylight		88	53	Female	Expired	No	Bridge
+Gujarat	Surat	2022	July	Tuesday	20:19	Serious	5	Auto-Rickshaw	2	2	Foggy	Village Road	Damaged	Dusk	Signs	83	56	Male	Valid	No	Intersection
+West Bengal	Kolkata	2020	April	Friday	07:58	Minor	2	Auto-Rickshaw	2	5	Clear	State Highway	Under Construction	Dawn		58	47	Female	Valid	No	Bridge
+West Bengal	Kolkata	2018	December	Sunday	07:46	Serious	5	Cycle	2	5	Rainy	Village Road	Damaged	Dark	Signals	30	20	Male	Valid	Yes	Straight Road
+Tripura	Unknown	2022	February	Sunday	10:52	Serious	1	Truck	8	1	Foggy	National Highway	Damaged	Dawn	Signs	104	42	Male	Valid	No	Curve
+Karnataka	Bangalore	2021	February	Wednesday	22:36	Minor	3	Truck	1	5	Rainy	Urban Road	Under Construction	Dark	Police Checkpost	93	44	Male		Yes	Intersection
+West Bengal	Durgapur	2021	November	Friday	09:04	Minor	3	Auto-Rickshaw	4	4	Foggy	State Highway	Damaged	Dark	Signs	82	53	Male		No	Intersection
+Chhattisgarh	Unknown	2020	January	Tuesday	19:34	Fatal	5	Cycle	0	2	Rainy	Village Road	Wet	Daylight	Signs	82	48	Male	Valid	Yes	Curve
+Himachal Pradesh	Unknown	2019	October	Wednesday	05:00	Serious	2	Car	2	5	Stormy	Village Road	Under Construction	Daylight	Signs	108	37	Female		Yes	Intersection
+Gujarat	Ahmedabad	2023	May	Sunday	04:33	Minor	4	Auto-Rickshaw	9	4	Hazy	National Highway	Dry	Dusk		41	49	Female	Valid	No	Curve
+Gujarat	Ahmedabad	2019	December	Wednesday	00:26	Fatal	4	Two-Wheeler	3	5	Rainy	State Highway	Wet	Dusk		61	51	Female		No	Intersection
+Uttar Pradesh	Kanpur	2018	May	Thursday	18:57	Minor	2	Two-Wheeler	6	2	Rainy	National Highway	Wet	Dusk		109	30	Male	Valid	No	Bridge
+Odisha	Unknown	2022	August	Tuesday	22:43	Fatal	4	Two-Wheeler	1	3	Foggy	National Highway	Under Construction	Daylight		30	57	Male	Expired	No	Curve
+Uttarakhand	Unknown	2022	May	Sunday	09:10	Minor	5	Auto-Rickshaw	1	4	Hazy	State Highway	Damaged	Dawn	Police Checkpost	114	25	Female		Yes	Straight Road
+Chhattisgarh	Unknown	2021	April	Saturday	05:38	Serious	4	Pedestrian	6	4	Foggy	State Highway	Dry	Dusk	Signals	37	22	Male	Valid	Yes	Intersection
+Karnataka	Mangalore	2020	October	Thursday	20:21	Serious	2	Bus	1	5	Hazy	State Highway	Under Construction	Dark	Signs	50	44	Male	Expired	No	Straight Road
+Uttarakhand	Unknown	2022	February	Sunday	00:35	Serious	1	Car	8	1	Stormy	National Highway	Wet	Dark	Police Checkpost	89	20	Male		No	Intersection
+Arunachal Pradesh	Unknown	2023	February	Friday	22:31	Fatal	2	Two-Wheeler	9	2	Rainy	State Highway	Under Construction	Daylight	Police Checkpost	117	59	Male		Yes	Bridge
+West Bengal	Siliguri	2022	November	Tuesday	00:24	Fatal	5	Cycle	7	4	Rainy	State Highway	Wet	Dawn	Signs	45	56	Female		No	Bridge
+Chhattisgarh	Unknown	2018	April	Monday	07:09	Serious	3	Two-Wheeler	8	3	Foggy	State Highway	Dry	Dawn		70	62	Female	Valid	Yes	Bridge
+Haryana	Unknown	2021	August	Sunday	08:33	Fatal	1	Two-Wheeler	6	4	Hazy	State Highway	Dry	Dark	Signals	60	56	Female		No	Intersection
+Andhra Pradesh	Vijayawada	2022	January	Monday	07:51	Minor	1	Pedestrian	0	0	Clear	National Highway	Dry	Dawn		95	51	Female	Expired	No	Bridge
+Assam	Unknown	2023	June	Saturday	06:10	Fatal	2	Bus	6	0	Clear	Urban Road	Dry	Dusk	Signals	31	54	Female	Expired	No	Straight Road
+Himachal Pradesh	Unknown	2018	October	Saturday	10:06	Minor	1	Cycle	6	3	Foggy	Village Road	Damaged	Dawn		85	55	Male	Valid	No	Intersection
+Odisha	Unknown	2019	June	Thursday	21:56	Fatal	5	Two-Wheeler	2	3	Hazy	Village Road	Dry	Daylight	Police Checkpost	110	48	Male	Valid	Yes	Curve
+Telangana	Unknown	2019	August	Saturday	10:54	Serious	3	Bus	3	2	Foggy	National Highway	Wet	Dawn	Signs	90	66	Male	Valid	No	Intersection
+Uttarakhand	Unknown	2021	February	Thursday	20:23	Serious	1	Auto-Rickshaw	5	0	Foggy	Urban Road	Wet	Dark		61	35	Male	Expired	No	Straight Road
+Goa	Unknown	2018	February	Saturday	15:01	Fatal	3	Auto-Rickshaw	0	4	Clear	Village Road	Damaged	Dawn		35	23	Female		Yes	Curve
+Chandigarh	Unknown	2023	August	Wednesday	17:55	Fatal	4	Auto-Rickshaw	2	5	Rainy	Village Road	Damaged	Dusk	Police Checkpost	85	65	Male	Valid	No	Straight Road
+Assam	Unknown	2023	April	Sunday	05:27	Fatal	2	Pedestrian	0	0	Stormy	State Highway	Wet	Daylight	Signals	99	59	Female	Valid	No	Intersection
+Odisha	Unknown	2018	May	Wednesday	00:29	Serious	3	Pedestrian	0	3	Hazy	Urban Road	Wet	Dusk		30	41	Female		No	Intersection
+Mizoram	Unknown	2018	June	Friday	16:53	Serious	4	Truck	0	2	Hazy	Village Road	Dry	Dark		97	68	Male		Yes	Intersection
+Gujarat	Vadodara	2023	March	Wednesday	13:40	Fatal	3	Truck	2	3	Foggy	Urban Road	Wet	Dawn	Signs	105	59	Male	Expired	No	Intersection
+Meghalaya	Unknown	2018	April	Tuesday	02:42	Serious	5	Auto-Rickshaw	6	2	Hazy	State Highway	Under Construction	Dawn	Signs	94	45	Female	Expired	Yes	Straight Road
+Karnataka	Mysore	2019	October	Monday	05:10	Minor	4	Bus	10	2	Stormy	Village Road	Wet	Dark		44	42	Female		Yes	Bridge
+Uttarakhand	Unknown	2020	April	Saturday	16:57	Minor	3	Bus	6	2	Clear	State Highway	Wet	Dark	Police Checkpost	66	25	Female	Expired	Yes	Straight Road
+Delhi	Dwarka	2018	January	Tuesday	04:43	Serious	5	Two-Wheeler	1	4	Rainy	State Highway	Under Construction	Dusk		77	63	Female		Yes	Intersection
+Jharkhand	Unknown	2022	April	Thursday	00:43	Fatal	4	Cycle	10	3	Clear	State Highway	Dry	Dark	Police Checkpost	38	57	Female		Yes	Straight Road
+Assam	Unknown	2020	April	Saturday	19:42	Minor	1	Car	3	2	Clear	Village Road	Damaged	Dark	Signals	43	60	Female		No	Straight Road
+Jammu and Kashmir	Unknown	2023	February	Saturday	09:18	Fatal	1	Cycle	3	1	Clear	National Highway	Dry	Dusk	Signals	41	62	Male		No	Bridge
+Punjab	Unknown	2018	April	Tuesday	15:40	Serious	5	Car	1	3	Stormy	National Highway	Dry	Dark	Police Checkpost	30	49	Female		No	Curve
+Jammu and Kashmir	Unknown	2023	December	Friday	17:12	Fatal	5	Cycle	10	3	Rainy	Urban Road	Under Construction	Dark	Signals	68	61	Female	Expired	Yes	Intersection
+Gujarat	Vadodara	2018	August	Thursday	09:03	Minor	4	Pedestrian	10	0	Foggy	National Highway	Dry	Dawn	Signals	74	21	Female	Expired	No	Bridge
+Maharashtra	Nagpur	2019	June	Monday	16:44	Minor	2	Car	5	5	Hazy	State Highway	Under Construction	Dawn	Signals	101	45	Female		Yes	Bridge
+Manipur	Unknown	2020	May	Sunday	08:53	Minor	5	Two-Wheeler	10	1	Hazy	Urban Road	Wet	Daylight	Signals	33	24	Female	Valid	Yes	Bridge
+Maharashtra	Nagpur	2023	May	Wednesday	12:02	Fatal	4	Two-Wheeler	7	1	Hazy	Urban Road	Under Construction	Dusk	Signs	57	49	Female	Expired	No	Straight Road
+Chandigarh	Unknown	2020	October	Wednesday	17:06	Minor	1	Car	1	1	Rainy	Village Road	Damaged	Dusk		43	60	Male	Expired	Yes	Curve
+Madhya Pradesh	Unknown	2022	July	Sunday	02:57	Minor	1	Car	8	2	Hazy	Urban Road	Dry	Dawn	Signs	81	18	Female	Expired	Yes	Intersection
+Bihar	Unknown	2023	March	Monday	03:27	Fatal	4	Bus	1	1	Hazy	Village Road	Dry	Dusk	Signals	67	63	Female	Expired	No	Bridge
+Tripura	Unknown	2022	February	Saturday	02:35	Fatal	4	Cycle	6	0	Foggy	State Highway	Under Construction	Dusk	Signals	98	64	Female	Expired	Yes	Curve
+Madhya Pradesh	Unknown	2018	October	Tuesday	11:17	Serious	2	Bus	4	3	Clear	Village Road	Under Construction	Daylight	Signs	73	18	Female	Expired	No	Curve
+Jharkhand	Unknown	2021	November	Tuesday	23:18	Minor	2	Bus	3	0	Stormy	Village Road	Dry	Dusk		95	36	Male	Expired	Yes	Intersection
+Assam	Unknown	2022	May	Saturday	12:31	Minor	2	Bus	4	4	Stormy	Urban Road	Damaged	Dark		82	27	Female		Yes	Bridge
+Punjab	Unknown	2018	August	Sunday	14:45	Serious	1	Cycle	3	1	Rainy	Village Road	Wet	Daylight	Signals	74	57	Male	Expired	No	Curve
+Nagaland	Unknown	2018	July	Friday	09:17	Fatal	3	Auto-Rickshaw	7	3	Stormy	Urban Road	Damaged	Dawn	Signs	47	37	Male	Valid	No	Curve
+Uttar Pradesh	Lucknow	2020	April	Saturday	01:29	Minor	4	Car	5	3	Clear	National Highway	Damaged	Daylight		36	34	Female	Expired	No	Curve
+Gujarat	Ahmedabad	2022	August	Sunday	12:26	Serious	1	Two-Wheeler	3	3	Rainy	State Highway	Under Construction	Daylight	Signs	59	55	Female	Expired	Yes	Bridge
+Tripura	Unknown	2020	August	Monday	16:40	Serious	5	Cycle	10	5	Rainy	National Highway	Dry	Dusk	Police Checkpost	37	40	Female	Expired	No	Straight Road
+Assam	Unknown	2020	February	Saturday	12:07	Minor	2	Car	1	2	Stormy	Village Road	Damaged	Dusk		73	61	Female		Yes	Curve
+Karnataka	Mysore	2020	December	Tuesday	12:46	Fatal	2	Car	9	0	Foggy	Urban Road	Dry	Dusk		60	58	Male	Expired	Yes	Straight Road
+Telangana	Unknown	2023	September	Sunday	13:12	Minor	1	Car	6	3	Stormy	State Highway	Dry	Dawn	Signs	84	52	Male	Expired	No	Bridge
+Tripura	Unknown	2020	December	Sunday	10:51	Fatal	4	Auto-Rickshaw	4	4	Clear	State Highway	Dry	Daylight	Signs	100	62	Male		No	Intersection
+Andhra Pradesh	Tirupati	2019	August	Saturday	06:11	Serious	4	Cycle	5	3	Rainy	State Highway	Wet	Dusk		98	44	Male		No	Intersection
+Kerala	Unknown	2022	April	Monday	05:20	Minor	3	Two-Wheeler	10	3	Clear	Urban Road	Under Construction	Dusk		86	30	Male	Expired	Yes	Curve
+Jammu and Kashmir	Unknown	2019	March	Sunday	07:50	Serious	1	Car	0	0	Hazy	National Highway	Dry	Daylight	Police Checkpost	50	20	Male	Expired	Yes	Bridge
+Goa	Unknown	2020	June	Sunday	15:50	Fatal	1	Auto-Rickshaw	8	5	Stormy	Village Road	Wet	Dark	Signals	49	51	Female	Valid	Yes	Curve
+Gujarat	Vadodara	2023	August	Wednesday	10:13	Serious	4	Pedestrian	5	4	Stormy	Village Road	Wet	Daylight	Signs	102	29	Male	Valid	No	Curve
+Uttarakhand	Unknown	2021	May	Thursday	05:29	Fatal	2	Bus	2	2	Stormy	Village Road	Damaged	Daylight	Signals	86	27	Male	Valid	Yes	Straight Road
+Meghalaya	Unknown	2019	September	Friday	20:43	Fatal	5	Bus	2	4	Hazy	National Highway	Dry	Dusk		103	64	Male	Expired	No	Straight Road
+Manipur	Unknown	2022	August	Saturday	11:22	Minor	4	Car	8	4	Foggy	Village Road	Under Construction	Dark	Signals	41	37	Male	Expired	Yes	Straight Road
+Chhattisgarh	Unknown	2020	October	Friday	18:43	Fatal	4	Auto-Rickshaw	3	5	Clear	State Highway	Damaged	Dusk	Signs	111	59	Male	Expired	No	Curve
+Karnataka	Mysore	2022	December	Tuesday	22:37	Serious	4	Auto-Rickshaw	9	4	Stormy	Urban Road	Wet	Dusk		92	20	Female		No	Intersection
+Manipur	Unknown	2021	June	Wednesday	03:40	Fatal	5	Pedestrian	4	5	Foggy	Urban Road	Under Construction	Dark	Signals	32	26	Male	Valid	Yes	Intersection
+Jharkhand	Unknown	2019	October	Wednesday	08:16	Minor	1	Auto-Rickshaw	10	5	Hazy	National Highway	Under Construction	Dusk	Signs	50	61	Female		No	Curve
+Mizoram	Unknown	2021	May	Monday	03:50	Serious	3	Truck	9	5	Rainy	State Highway	Under Construction	Dusk	Signs	83	34	Female	Expired	Yes	Intersection
+Chandigarh	Unknown	2018	October	Tuesday	18:24	Fatal	5	Two-Wheeler	5	0	Stormy	State Highway	Damaged	Dusk		120	22	Male	Expired	No	Intersection
+Punjab	Unknown	2023	May	Friday	02:20	Minor	3	Truck	0	0	Clear	National Highway	Dry	Dusk	Signs	66	50	Male		Yes	Intersection
+Tripura	Unknown	2023	February	Wednesday	13:20	Serious	4	Auto-Rickshaw	0	1	Clear	Village Road	Dry	Dawn	Police Checkpost	69	24	Male		No	Straight Road
+Telangana	Unknown	2020	June	Monday	03:19	Minor	5	Two-Wheeler	10	1	Stormy	Urban Road	Damaged	Dusk		73	50	Male		Yes	Curve
+Karnataka	Mangalore	2022	June	Sunday	17:25	Fatal	3	Bus	8	4	Rainy	National Highway	Wet	Daylight		86	37	Male		No	Curve
+Madhya Pradesh	Unknown	2023	July	Monday	21:40	Fatal	4	Cycle	3	1	Rainy	State Highway	Wet	Dusk		81	45	Female	Expired	No	Intersection
+Chandigarh	Unknown	2020	May	Sunday	17:09	Minor	2	Bus	10	0	Rainy	National Highway	Under Construction	Dark		61	47	Female	Valid	No	Bridge
+Tamil Nadu	Chennai	2019	May	Friday	22:03	Minor	3	Bus	10	4	Hazy	National Highway	Wet	Daylight		35	31	Female	Valid	No	Intersection
+Delhi	Rohini	2019	April	Monday	16:44	Fatal	5	Bus	7	3	Stormy	State Highway	Under Construction	Daylight		77	63	Male	Expired	No	Intersection
+Chhattisgarh	Unknown	2018	October	Wednesday	10:18	Fatal	1	Bus	1	2	Clear	Urban Road	Wet	Daylight	Police Checkpost	119	49	Female	Expired	No	Bridge
+Puducherry	Unknown	2022	February	Wednesday	04:31	Serious	5	Cycle	10	5	Hazy	Urban Road	Under Construction	Dark	Police Checkpost	30	39	Male	Valid	No	Bridge
+West Bengal	Kolkata	2018	June	Saturday	20:12	Serious	1	Bus	0	3	Rainy	State Highway	Under Construction	Dawn	Police Checkpost	88	53	Male	Expired	Yes	Intersection
+Tamil Nadu	Chennai	2023	November	Thursday	21:27	Serious	5	Two-Wheeler	10	1	Rainy	Urban Road	Under Construction	Dawn	Signals	80	32	Male		Yes	Intersection
+Punjab	Unknown	2019	May	Tuesday	22:18	Minor	5	Pedestrian	4	4	Stormy	Village Road	Wet	Dawn	Signs	49	57	Female	Expired	Yes	Intersection
+Karnataka	Bangalore	2020	May	Thursday	06:49	Serious	2	Cycle	8	2	Rainy	Urban Road	Wet	Daylight	Signs	96	43	Male	Valid	Yes	Intersection
+Nagaland	Unknown	2020	November	Sunday	20:49	Serious	3	Cycle	0	4	Foggy	National Highway	Dry	Daylight	Police Checkpost	79	54	Female	Expired	Yes	Intersection
+Maharashtra	Nagpur	2019	July	Monday	20:04	Fatal	3	Pedestrian	2	2	Clear	National Highway	Wet	Dark	Signals	35	55	Male	Valid	Yes	Bridge
+Meghalaya	Unknown	2022	October	Thursday	04:47	Fatal	5	Bus	10	2	Clear	Urban Road	Damaged	Dawn	Police Checkpost	95	18	Female		Yes	Curve
+Karnataka	Mangalore	2023	June	Sunday	23:33	Serious	3	Two-Wheeler	5	3	Rainy	National Highway	Wet	Dark	Signals	31	42	Female	Valid	No	Straight Road
+Haryana	Unknown	2023	August	Sunday	06:01	Minor	1	Cycle	9	0	Foggy	Urban Road	Dry	Dusk	Signs	70	50	Female		No	Curve
+Tamil Nadu	Madurai	2018	January	Friday	22:19	Minor	1	Truck	9	1	Hazy	State Highway	Damaged	Daylight	Signals	55	67	Male		No	Straight Road
+Sikkim	Unknown	2022	September	Thursday	22:07	Serious	2	Car	0	5	Foggy	State Highway	Wet	Dark		107	45	Female	Valid	No	Bridge
+Bihar	Unknown	2021	June	Tuesday	06:44	Fatal	5	Car	10	4	Stormy	State Highway	Under Construction	Dark		44	34	Male	Valid	No	Curve
+Odisha	Unknown	2019	September	Friday	08:19	Serious	2	Two-Wheeler	4	4	Stormy	Village Road	Damaged	Dark	Signals	68	43	Male	Expired	Yes	Curve
+Telangana	Unknown	2019	July	Friday	20:20	Serious	1	Car	1	5	Hazy	Urban Road	Wet	Dawn	Signs	53	18	Female	Valid	No	Intersection
+Andhra Pradesh	Visakhapatnam	2021	December	Thursday	07:47	Minor	4	Bus	5	4	Clear	State Highway	Under Construction	Dawn	Police Checkpost	119	29	Male		No	Curve
+Chhattisgarh	Unknown	2019	May	Friday	00:21	Minor	4	Auto-Rickshaw	0	2	Foggy	Village Road	Dry	Dusk	Police Checkpost	56	61	Female	Valid	No	Intersection
+Madhya Pradesh	Unknown	2019	November	Thursday	10:31	Serious	1	Car	1	0	Stormy	State Highway	Dry	Daylight	Police Checkpost	117	21	Male	Valid	No	Curve
+Assam	Unknown	2021	August	Sunday	23:25	Fatal	2	Pedestrian	5	5	Rainy	State Highway	Under Construction	Daylight		52	51	Female	Expired	No	Curve
+Nagaland	Unknown	2018	March	Monday	08:16	Minor	1	Pedestrian	0	1	Foggy	National Highway	Under Construction	Dark		53	48	Female		Yes	Curve
+Karnataka	Bangalore	2020	May	Monday	02:21	Fatal	1	Two-Wheeler	6	1	Rainy	Village Road	Wet	Daylight	Police Checkpost	54	29	Male	Expired	Yes	Straight Road
+Chandigarh	Unknown	2021	September	Thursday	23:48	Minor	3	Truck	0	3	Clear	Urban Road	Wet	Daylight		119	51	Male	Expired	Yes	Bridge
+Arunachal Pradesh	Unknown	2018	June	Sunday	04:11	Fatal	4	Cycle	4	1	Hazy	National Highway	Under Construction	Daylight	Police Checkpost	101	35	Male	Valid	Yes	Curve
+Puducherry	Unknown	2018	July	Friday	12:56	Minor	3	Truck	0	0	Clear	National Highway	Under Construction	Dark	Police Checkpost	86	62	Female	Expired	No	Curve
+Gujarat	Ahmedabad	2021	June	Saturday	06:52	Fatal	5	Car	5	1	Stormy	National Highway	Under Construction	Dark	Signals	56	70	Female		No	Bridge
+Tamil Nadu	Chennai	2022	April	Saturday	14:54	Serious	1	Truck	3	2	Hazy	Urban Road	Under Construction	Dawn	Signs	69	41	Male	Expired	Yes	Curve
+Assam	Unknown	2022	November	Saturday	07:50	Minor	5	Two-Wheeler	8	2	Foggy	National Highway	Damaged	Daylight		54	43	Female		Yes	Intersection
+Jharkhand	Unknown	2018	March	Saturday	02:29	Serious	3	Bus	9	0	Clear	State Highway	Damaged	Dark	Signals	38	59	Female		No	Straight Road
+Meghalaya	Unknown	2020	February	Sunday	14:16	Serious	1	Cycle	6	5	Hazy	State Highway	Under Construction	Dark		54	51	Male		No	Bridge
+Bihar	Unknown	2019	March	Tuesday	20:20	Minor	5	Car	9	1	Stormy	National Highway	Dry	Daylight	Signals	67	58	Male	Expired	Yes	Straight Road
+Manipur	Unknown	2020	April	Monday	21:52	Fatal	1	Car	3	3	Clear	State Highway	Under Construction	Daylight	Police Checkpost	69	40	Male		No	Intersection
+Uttarakhand	Unknown	2019	July	Wednesday	19:50	Serious	4	Bus	4	5	Hazy	State Highway	Dry	Daylight	Police Checkpost	69	44	Female	Expired	No	Curve
+Delhi	New Delhi	2018	January	Saturday	20:38	Serious	3	Pedestrian	9	0	Clear	National Highway	Damaged	Dusk		90	48	Male	Valid	Yes	Intersection
+Bihar	Unknown	2019	March	Saturday	06:04	Fatal	1	Two-Wheeler	5	1	Stormy	Urban Road	Under Construction	Daylight	Signs	35	62	Female	Valid	No	Intersection
+Tripura	Unknown	2019	September	Friday	07:15	Minor	1	Car	10	1	Rainy	National Highway	Under Construction	Dawn	Signs	118	44	Female	Expired	No	Curve
+Haryana	Unknown	2023	September	Wednesday	02:36	Serious	2	Truck	9	0	Rainy	Urban Road	Dry	Dawn		75	61	Male		No	Bridge
+Telangana	Unknown	2019	October	Thursday	20:47	Minor	2	Pedestrian	1	2	Hazy	Urban Road	Under Construction	Dawn		116	62	Male	Expired	Yes	Curve
+Rajasthan	Udaipur	2018	August	Saturday	14:14	Serious	3	Auto-Rickshaw	3	0	Stormy	Village Road	Dry	Dusk	Signals	120	51	Female	Valid	Yes	Bridge
+Puducherry	Unknown	2019	December	Wednesday	15:21	Minor	1	Bus	3	1	Hazy	National Highway	Dry	Dark	Signals	73	53	Male	Valid	No	Curve
+Puducherry	Unknown	2023	July	Sunday	12:12	Fatal	5	Cycle	2	0	Hazy	State Highway	Wet	Dusk	Signs	40	35	Female		No	Bridge
+Madhya Pradesh	Unknown	2019	August	Saturday	12:46	Minor	5	Two-Wheeler	1	3	Hazy	Village Road	Dry	Dusk	Signals	31	43	Male	Valid	No	Bridge
+Uttar Pradesh	Lucknow	2023	November	Friday	15:18	Minor	1	Car	4	4	Stormy	Village Road	Wet	Dark	Signals	45	40	Male	Valid	No	Bridge
+Assam	Unknown	2019	May	Sunday	20:55	Serious	3	Truck	7	0	Clear	National Highway	Under Construction	Dark	Signals	100	31	Female	Expired	No	Bridge
+Chandigarh	Unknown	2019	August	Thursday	17:40	Serious	3	Truck	2	0	Clear	Urban Road	Dry	Dusk	Police Checkpost	64	36	Male	Valid	Yes	Curve
+Himachal Pradesh	Unknown	2023	December	Friday	05:36	Minor	3	Auto-Rickshaw	3	1	Clear	Village Road	Under Construction	Dark	Signals	78	63	Male	Valid	Yes	Curve
+Sikkim	Unknown	2021	September	Saturday	04:57	Serious	5	Pedestrian	0	0	Clear	Village Road	Under Construction	Dark	Signs	91	67	Male		No	Bridge
+Odisha	Unknown	2020	December	Monday	02:24	Fatal	5	Truck	9	0	Clear	Village Road	Dry	Daylight	Signs	66	61	Female		Yes	Straight Road
+Tamil Nadu	Coimbatore	2023	January	Sunday	04:46	Fatal	2	Cycle	9	5	Foggy	State Highway	Under Construction	Dark		34	51	Female		No	Curve
+Karnataka	Mangalore	2020	August	Monday	19:24	Fatal	5	Cycle	1	1	Rainy	Urban Road	Damaged	Daylight	Signs	73	64	Female		No	Intersection
+Delhi	New Delhi	2018	October	Sunday	17:59	Minor	5	Bus	6	4	Foggy	National Highway	Dry	Dusk	Signs	67	67	Male	Valid	No	Bridge
+Madhya Pradesh	Unknown	2023	September	Saturday	23:11	Minor	4	Bus	9	0	Rainy	Village Road	Under Construction	Dark		108	47	Male	Expired	Yes	Curve
+Puducherry	Unknown	2020	October	Tuesday	20:35	Minor	5	Pedestrian	8	1	Foggy	National Highway	Damaged	Dark	Signs	65	67	Female	Expired	No	Bridge
+Kerala	Unknown	2020	July	Saturday	13:27	Fatal	4	Cycle	9	3	Rainy	National Highway	Dry	Daylight		78	62	Male		Yes	Curve
+Assam	Unknown	2020	December	Saturday	03:48	Fatal	2	Pedestrian	0	2	Stormy	National Highway	Damaged	Daylight	Signs	49	60	Female	Valid	No	Intersection
+Delhi	Rohini	2022	September	Thursday	09:15	Minor	2	Two-Wheeler	0	0	Rainy	State Highway	Damaged	Dusk	Signs	87	49	Male		Yes	Straight Road
+Haryana	Unknown	2020	March	Monday	20:24	Fatal	2	Bus	3	4	Clear	Urban Road	Under Construction	Dusk	Signals	91	35	Female	Expired	Yes	Curve
+Punjab	Unknown	2023	July	Saturday	10:14	Minor	5	Pedestrian	5	4	Clear	Urban Road	Wet	Dark	Signals	111	58	Male		No	Intersection
+Assam	Unknown	2020	January	Sunday	23:22	Serious	5	Cycle	4	4	Foggy	Urban Road	Damaged	Dark	Signs	99	58	Female	Valid	No	Curve
+Odisha	Unknown	2023	May	Wednesday	06:14	Fatal	5	Cycle	4	4	Foggy	National Highway	Damaged	Dusk	Police Checkpost	58	47	Male	Valid	No	Straight Road
+Chhattisgarh	Unknown	2023	April	Tuesday	17:10	Fatal	1	Auto-Rickshaw	2	5	Hazy	Urban Road	Dry	Daylight	Signs	117	50	Male		No	Straight Road
+Sikkim	Unknown	2018	June	Saturday	05:53	Serious	2	Two-Wheeler	3	2	Rainy	State Highway	Wet	Dusk	Police Checkpost	40	48	Female	Valid	Yes	Curve
+Mizoram	Unknown	2019	June	Monday	05:35	Minor	4	Cycle	6	5	Foggy	Urban Road	Under Construction	Daylight	Signs	35	47	Female	Expired	Yes	Straight Road
+West Bengal	Siliguri	2018	August	Thursday	03:40	Serious	1	Auto-Rickshaw	8	0	Stormy	Village Road	Under Construction	Daylight	Signals	48	28	Male	Valid	No	Bridge
+Bihar	Unknown	2019	May	Sunday	05:19	Minor	3	Truck	7	4	Stormy	National Highway	Under Construction	Daylight	Signs	118	22	Female	Valid	Yes	Straight Road
+Tripura	Unknown	2018	February	Wednesday	00:06	Serious	5	Cycle	1	4	Clear	National Highway	Damaged	Dark	Signals	53	26	Male		Yes	Intersection
+West Bengal	Durgapur	2021	July	Saturday	03:30	Minor	3	Auto-Rickshaw	0	2	Clear	State Highway	Under Construction	Dark	Signals	38	69	Male	Expired	No	Intersection
+Rajasthan	Udaipur	2023	December	Tuesday	22:00	Minor	5	Car	6	4	Clear	Village Road	Wet	Dusk	Police Checkpost	62	38	Female	Expired	Yes	Straight Road
+Tripura	Unknown	2018	April	Wednesday	20:12	Serious	1	Bus	8	3	Foggy	National Highway	Damaged	Dawn		90	43	Female	Expired	No	Curve
+Bihar	Unknown	2021	January	Sunday	20:17	Fatal	3	Bus	9	3	Foggy	National Highway	Wet	Daylight	Signs	40	40	Female	Expired	No	Intersection
+Rajasthan	Udaipur	2022	February	Tuesday	12:25	Serious	4	Car	6	3	Hazy	Urban Road	Under Construction	Dawn		51	47	Male		No	Intersection
+Jharkhand	Unknown	2023	June	Tuesday	07:02	Fatal	5	Two-Wheeler	2	0	Stormy	State Highway	Wet	Dawn		83	40	Female	Expired	No	Curve
+Delhi	New Delhi	2023	October	Tuesday	22:37	Serious	3	Pedestrian	6	3	Clear	National Highway	Damaged	Daylight	Signs	55	64	Male	Expired	Yes	Straight Road
+Punjab	Unknown	2018	June	Monday	00:54	Minor	4	Car	1	3	Hazy	Village Road	Wet	Dark	Signals	106	45	Female	Valid	Yes	Intersection
+Sikkim	Unknown	2020	April	Saturday	04:09	Minor	5	Pedestrian	5	2	Stormy	State Highway	Under Construction	Dark	Police Checkpost	120	40	Female		No	Bridge
+Tamil Nadu	Chennai	2018	May	Tuesday	12:58	Minor	4	Pedestrian	9	2	Foggy	Urban Road	Under Construction	Dusk		117	60	Female	Expired	Yes	Straight Road
+Uttarakhand	Unknown	2020	June	Monday	13:34	Fatal	1	Auto-Rickshaw	3	0	Hazy	Urban Road	Under Construction	Dawn	Police Checkpost	50	29	Female	Expired	Yes	Curve
+Himachal Pradesh	Unknown	2020	November	Monday	03:03	Minor	4	Bus	5	0	Rainy	National Highway	Damaged	Daylight	Police Checkpost	32	60	Female	Valid	Yes	Intersection
+Gujarat	Ahmedabad	2022	June	Wednesday	15:17	Fatal	1	Cycle	9	1	Hazy	State Highway	Damaged	Dusk	Police Checkpost	32	23	Male	Valid	Yes	Intersection
+Uttar Pradesh	Varanasi	2018	October	Tuesday	19:42	Serious	2	Car	7	0	Stormy	State Highway	Dry	Dusk	Signs	106	22	Male	Expired	No	Curve
+Madhya Pradesh	Unknown	2020	August	Sunday	14:42	Serious	5	Two-Wheeler	6	1	Hazy	Urban Road	Under Construction	Dawn		34	38	Female	Valid	No	Straight Road
+Karnataka	Mangalore	2019	January	Tuesday	12:21	Fatal	3	Cycle	6	2	Hazy	State Highway	Damaged	Dark	Police Checkpost	41	22	Female	Expired	No	Curve
+Manipur	Unknown	2019	August	Friday	02:01	Minor	5	Truck	1	4	Hazy	Urban Road	Wet	Daylight	Signs	120	67	Female	Expired	No	Straight Road
+Madhya Pradesh	Unknown	2019	February	Thursday	08:19	Serious	2	Cycle	8	2	Clear	Village Road	Under Construction	Dusk	Signs	84	66	Male	Valid	No	Curve
+Uttarakhand	Unknown	2021	November	Sunday	13:44	Minor	4	Car	9	4	Stormy	State Highway	Under Construction	Daylight		49	53	Female		Yes	Curve
+Jammu and Kashmir	Unknown	2021	October	Friday	11:52	Minor	1	Two-Wheeler	2	3	Stormy	Village Road	Under Construction	Dusk	Signals	79	54	Male	Expired	No	Straight Road
+Goa	Unknown	2022	February	Friday	21:05	Fatal	4	Two-Wheeler	9	4	Hazy	Village Road	Wet	Daylight	Signals	95	27	Female		No	Intersection
+Uttarakhand	Unknown	2021	May	Tuesday	00:41	Fatal	5	Cycle	1	2	Rainy	Urban Road	Damaged	Daylight	Police Checkpost	105	58	Female		Yes	Straight Road
+Chhattisgarh	Unknown	2021	November	Friday	04:24	Minor	1	Auto-Rickshaw	0	2	Stormy	State Highway	Damaged	Daylight	Police Checkpost	111	36	Male	Expired	Yes	Intersection
+Maharashtra	Pune	2021	May	Thursday	13:53	Minor	2	Two-Wheeler	9	3	Stormy	Urban Road	Wet	Daylight	Signals	75	44	Male		No	Intersection
+Maharashtra	Mumbai	2021	May	Monday	01:04	Serious	3	Two-Wheeler	8	0	Hazy	Urban Road	Damaged	Dark		50	40	Male	Valid	Yes	Straight Road
+Manipur	Unknown	2022	October	Saturday	00:06	Fatal	4	Bus	0	3	Clear	Urban Road	Dry	Dawn	Signs	98	27	Male	Expired	No	Straight Road
+Himachal Pradesh	Unknown	2023	March	Tuesday	05:14	Minor	3	Two-Wheeler	3	3	Stormy	Village Road	Damaged	Dark	Signs	93	22	Male	Valid	No	Intersection
+Delhi	New Delhi	2021	September	Thursday	20:15	Serious	1	Truck	10	0	Stormy	National Highway	Damaged	Dusk	Signs	102	63	Female	Expired	Yes	Straight Road
+Nagaland	Unknown	2021	January	Wednesday	14:19	Minor	1	Two-Wheeler	2	1	Foggy	State Highway	Dry	Daylight	Signals	38	69	Female	Valid	No	Intersection
+Karnataka	Mysore	2023	March	Friday	21:18	Serious	3	Two-Wheeler	7	3	Clear	Urban Road	Wet	Dark	Signs	118	47	Female	Expired	Yes	Curve
+Manipur	Unknown	2022	May	Wednesday	17:08	Serious	5	Pedestrian	9	1	Hazy	Village Road	Damaged	Daylight	Signals	120	28	Female	Valid	Yes	Intersection
+Meghalaya	Unknown	2021	November	Saturday	22:53	Fatal	4	Auto-Rickshaw	2	4	Hazy	National Highway	Damaged	Daylight		99	50	Female		Yes	Straight Road
+Telangana	Unknown	2019	June	Wednesday	09:33	Minor	2	Truck	8	0	Hazy	Urban Road	Damaged	Dawn	Signs	30	20	Male	Valid	Yes	Straight Road
+Arunachal Pradesh	Unknown	2021	November	Monday	13:04	Minor	5	Cycle	1	2	Rainy	Urban Road	Under Construction	Dawn		43	67	Male	Expired	Yes	Curve
+Goa	Unknown	2019	August	Thursday	16:07	Minor	2	Car	3	5	Clear	Village Road	Damaged	Dark	Police Checkpost	62	50	Male	Expired	No	Intersection
+Punjab	Unknown	2021	November	Saturday	19:19	Serious	2	Truck	1	0	Hazy	Urban Road	Under Construction	Dawn	Signs	67	33	Female	Expired	Yes	Straight Road
+Bihar	Unknown	2023	April	Thursday	16:26	Minor	2	Car	7	4	Stormy	State Highway	Dry	Dawn		54	26	Female	Expired	No	Bridge
+Goa	Unknown	2021	May	Friday	11:16	Minor	1	Pedestrian	10	3	Rainy	National Highway	Wet	Daylight	Signals	97	45	Male	Valid	No	Bridge
+Haryana	Unknown	2023	December	Wednesday	13:48	Minor	1	Cycle	7	4	Rainy	Village Road	Damaged	Daylight	Signs	68	19	Male	Expired	No	Straight Road
+Gujarat	Ahmedabad	2020	April	Sunday	17:25	Minor	2	Auto-Rickshaw	10	2	Foggy	State Highway	Damaged	Dusk	Signals	110	38	Female	Expired	Yes	Bridge
+Nagaland	Unknown	2021	April	Wednesday	22:45	Fatal	5	Auto-Rickshaw	5	0	Rainy	State Highway	Wet	Dark	Police Checkpost	35	62	Male	Valid	No	Bridge
+Manipur	Unknown	2021	January	Wednesday	00:54	Serious	2	Truck	3	3	Foggy	State Highway	Under Construction	Dark		42	38	Male		Yes	Intersection
+Kerala	Unknown	2021	December	Friday	17:01	Serious	2	Two-Wheeler	10	4	Hazy	National Highway	Dry	Daylight		100	30	Male		No	Curve
+Goa	Unknown	2019	June	Wednesday	14:59	Serious	2	Cycle	0	4	Foggy	Urban Road	Dry	Dark	Police Checkpost	109	48	Male	Expired	No	Straight Road
+Sikkim	Unknown	2021	August	Thursday	13:11	Serious	1	Auto-Rickshaw	0	4	Clear	State Highway	Wet	Dusk	Police Checkpost	59	60	Male	Expired	Yes	Straight Road
+Puducherry	Unknown	2023	December	Wednesday	21:33	Serious	3	Auto-Rickshaw	4	2	Clear	Village Road	Under Construction	Dark	Signs	86	67	Female	Expired	No	Straight Road
+Arunachal Pradesh	Unknown	2019	December	Thursday	11:33	Fatal	3	Pedestrian	7	0	Rainy	Village Road	Under Construction	Daylight	Signals	75	66	Female		Yes	Curve
+Uttar Pradesh	Lucknow	2021	April	Tuesday	21:09	Serious	2	Bus	2	2	Clear	Urban Road	Damaged	Dawn	Police Checkpost	49	50	Female		No	Straight Road
+Goa	Unknown	2019	June	Monday	04:45	Fatal	5	Pedestrian	5	1	Foggy	State Highway	Under Construction	Dark	Signals	106	49	Female		No	Straight Road
+Jharkhand	Unknown	2023	April	Monday	09:22	Serious	2	Two-Wheeler	6	5	Rainy	State Highway	Damaged	Dark	Signals	118	25	Male	Valid	No	Bridge
+West Bengal	Kolkata	2020	August	Thursday	13:42	Fatal	4	Auto-Rickshaw	8	4	Hazy	National Highway	Wet	Dawn		112	38	Female		Yes	Bridge
+Odisha	Unknown	2018	November	Thursday	16:36	Serious	4	Auto-Rickshaw	9	3	Foggy	National Highway	Under Construction	Dark	Police Checkpost	88	19	Male		No	Curve
+Punjab	Unknown	2020	January	Monday	08:09	Serious	5	Truck	2	4	Stormy	State Highway	Wet	Dusk		85	52	Male	Expired	Yes	Bridge
+Jharkhand	Unknown	2020	August	Monday	08:31	Serious	1	Pedestrian	6	2	Hazy	State Highway	Wet	Daylight	Signals	46	37	Male	Valid	Yes	Bridge
+Bihar	Unknown	2023	April	Tuesday	08:55	Minor	5	Truck	0	4	Stormy	Urban Road	Wet	Dark	Signs	45	32	Male	Valid	Yes	Straight Road
+Nagaland	Unknown	2019	March	Thursday	07:29	Serious	5	Auto-Rickshaw	1	5	Foggy	National Highway	Damaged	Dark	Signals	62	39	Male		No	Straight Road
+Jharkhand	Unknown	2023	February	Thursday	22:27	Minor	1	Car	0	1	Clear	Village Road	Dry	Daylight	Signs	65	19	Female	Expired	Yes	Straight Road
+Kerala	Unknown	2022	October	Tuesday	00:07	Serious	4	Pedestrian	10	0	Stormy	State Highway	Under Construction	Dawn	Signs	66	23	Female	Valid	No	Curve
+Sikkim	Unknown	2021	January	Wednesday	00:00	Minor	4	Bus	4	3	Stormy	Village Road	Wet	Dusk	Police Checkpost	91	47	Male	Expired	No	Bridge
+Telangana	Unknown	2022	September	Wednesday	16:38	Fatal	3	Two-Wheeler	6	1	Clear	National Highway	Dry	Daylight	Signs	46	44	Male	Valid	Yes	Curve
+Goa	Unknown	2018	May	Tuesday	06:54	Minor	1	Cycle	1	2	Clear	National Highway	Wet	Dusk	Signs	119	40	Female		Yes	Bridge
+Karnataka	Mysore	2019	March	Wednesday	17:11	Serious	1	Auto-Rickshaw	9	3	Hazy	Village Road	Wet	Dark		57	39	Female	Valid	Yes	Intersection
+West Bengal	Kolkata	2018	May	Friday	17:10	Fatal	4	Car	10	2	Foggy	Urban Road	Under Construction	Daylight	Signs	115	32	Male	Valid	No	Intersection
+Karnataka	Bangalore	2018	July	Sunday	23:46	Serious	5	Two-Wheeler	10	5	Clear	Village Road	Dry	Daylight	Signs	85	48	Female	Valid	No	Bridge
+Jammu and Kashmir	Unknown	2022	January	Saturday	02:23	Serious	4	Two-Wheeler	3	5	Hazy	National Highway	Under Construction	Dusk	Police Checkpost	103	29	Male	Expired	No	Curve
+Chandigarh	Unknown	2021	November	Friday	14:20	Serious	1	Two-Wheeler	2	3	Clear	National Highway	Wet	Daylight	Police Checkpost	46	27	Female		No	Bridge
+Madhya Pradesh	Unknown	2020	January	Sunday	20:05	Minor	4	Two-Wheeler	7	5	Clear	National Highway	Under Construction	Dawn	Signs	81	35	Female		Yes	Straight Road
+Odisha	Unknown	2021	November	Friday	09:13	Minor	3	Two-Wheeler	9	4	Hazy	Village Road	Damaged	Daylight		31	58	Male	Expired	No	Bridge
+Rajasthan	Jodhpur	2022	August	Friday	10:34	Minor	3	Two-Wheeler	9	0	Clear	State Highway	Wet	Daylight	Signs	90	65	Male	Valid	Yes	Bridge
+Uttarakhand	Unknown	2018	July	Friday	06:40	Serious	5	Cycle	3	0	Hazy	State Highway	Damaged	Dusk	Signs	61	18	Male	Expired	Yes	Bridge
+Uttarakhand	Unknown	2022	August	Monday	23:32	Serious	3	Auto-Rickshaw	1	3	Clear	Urban Road	Under Construction	Dark	Signs	66	54	Male	Valid	Yes	Bridge
+Kerala	Unknown	2020	January	Thursday	19:54	Serious	3	Bus	3	3	Clear	National Highway	Dry	Dark	Police Checkpost	44	56	Female	Expired	No	Intersection
+Madhya Pradesh	Unknown	2022	November	Wednesday	20:31	Fatal	3	Pedestrian	9	3	Clear	Village Road	Under Construction	Daylight	Police Checkpost	69	61	Female		Yes	Curve
+Meghalaya	Unknown	2022	March	Thursday	03:10	Serious	5	Pedestrian	8	3	Hazy	State Highway	Wet	Daylight		98	51	Male		No	Intersection
+Himachal Pradesh	Unknown	2020	June	Tuesday	01:08	Serious	5	Car	4	1	Stormy	Village Road	Damaged	Dusk		37	68	Male	Valid	No	Straight Road
+Karnataka	Bangalore	2022	June	Friday	20:12	Fatal	4	Auto-Rickshaw	1	0	Clear	Village Road	Wet	Dawn	Signals	39	40	Female	Expired	Yes	Straight Road
+Goa	Unknown	2019	May	Friday	12:00	Serious	3	Two-Wheeler	0	2	Rainy	Village Road	Under Construction	Dawn		60	34	Female	Valid	Yes	Intersection
+Tamil Nadu	Madurai	2019	October	Monday	18:40	Minor	5	Two-Wheeler	1	5	Clear	Urban Road	Damaged	Daylight		61	52	Female	Valid	No	Bridge
+Telangana	Unknown	2020	June	Monday	08:07	Fatal	3	Cycle	0	5	Stormy	National Highway	Under Construction	Dawn	Signals	54	50	Male	Expired	Yes	Curve
+Tripura	Unknown	2020	January	Friday	06:37	Minor	5	Pedestrian	8	1	Rainy	National Highway	Damaged	Dusk	Police Checkpost	82	61	Female		No	Intersection
+West Bengal	Siliguri	2018	September	Friday	08:31	Fatal	4	Truck	5	0	Stormy	State Highway	Wet	Dusk		76	26	Male	Expired	Yes	Bridge
+Meghalaya	Unknown	2021	March	Sunday	04:08	Serious	3	Bus	8	1	Foggy	National Highway	Damaged	Dawn	Signals	116	24	Male	Valid	No	Curve
+Telangana	Unknown	2021	February	Friday	22:04	Serious	2	Two-Wheeler	4	3	Clear	National Highway	Dry	Daylight	Police Checkpost	60	56	Female	Expired	No	Curve
+West Bengal	Siliguri	2020	August	Saturday	06:27	Fatal	2	Car	10	4	Foggy	National Highway	Under Construction	Daylight		103	51	Male	Expired	Yes	Intersection
+Madhya Pradesh	Unknown	2019	July	Sunday	17:12	Fatal	3	Bus	0	2	Clear	Urban Road	Dry	Daylight		32	70	Male		Yes	Straight Road
+Sikkim	Unknown	2021	December	Friday	21:32	Fatal	5	Bus	7	4	Stormy	National Highway	Wet	Dark	Signals	109	61	Female	Expired	Yes	Straight Road
+Goa	Unknown	2019	November	Wednesday	14:26	Minor	1	Cycle	3	1	Stormy	Urban Road	Damaged	Dusk	Police Checkpost	62	62	Male		No	Bridge
+Chandigarh	Unknown	2019	January	Thursday	23:05	Serious	2	Bus	5	3	Hazy	Village Road	Dry	Dawn	Signals	46	51	Male		Yes	Intersection
+Jharkhand	Unknown	2020	July	Wednesday	12:46	Serious	2	Two-Wheeler	1	2	Rainy	Urban Road	Under Construction	Dusk	Police Checkpost	70	46	Male	Valid	No	Intersection
+Uttarakhand	Unknown	2022	January	Sunday	06:53	Fatal	3	Bus	0	2	Stormy	Village Road	Damaged	Dawn	Police Checkpost	87	58	Female	Expired	Yes	Bridge
+Tamil Nadu	Coimbatore	2021	October	Wednesday	08:38	Fatal	3	Bus	5	4	Clear	State Highway	Damaged	Dusk	Signals	67	51	Female	Expired	No	Bridge
+Maharashtra	Mumbai	2022	February	Tuesday	00:14	Minor	5	Car	9	1	Hazy	Village Road	Wet	Dusk		105	59	Female	Expired	Yes	Straight Road
+Maharashtra	Pune	2019	February	Tuesday	13:31	Fatal	3	Bus	4	5	Foggy	Urban Road	Dry	Dark		120	31	Female	Valid	Yes	Intersection
+Andhra Pradesh	Vijayawada	2022	October	Tuesday	09:38	Serious	1	Cycle	5	3	Hazy	National Highway	Wet	Dusk	Signs	112	20	Male	Expired	No	Curve
+Delhi	New Delhi	2021	May	Sunday	04:51	Minor	3	Pedestrian	9	1	Stormy	Urban Road	Dry	Dark	Signs	54	19	Male		Yes	Curve
+Gujarat	Surat	2023	June	Thursday	04:39	Minor	2	Pedestrian	1	3	Clear	State Highway	Dry	Dark		40	41	Female	Expired	No	Intersection
+Andhra Pradesh	Tirupati	2020	December	Saturday	21:46	Fatal	2	Cycle	8	4	Stormy	Urban Road	Wet	Dawn		40	23	Male	Expired	No	Straight Road
+Rajasthan	Udaipur	2021	July	Monday	00:53	Minor	5	Two-Wheeler	5	0	Rainy	National Highway	Damaged	Dark	Signs	65	42	Male		No	Bridge
+Assam	Unknown	2023	May	Tuesday	00:12	Serious	4	Truck	7	0	Foggy	Village Road	Under Construction	Daylight		103	70	Female	Expired	Yes	Curve
+Andhra Pradesh	Tirupati	2020	November	Friday	13:03	Fatal	2	Pedestrian	1	1	Stormy	National Highway	Under Construction	Dark	Signs	32	70	Male		Yes	Intersection
+Haryana	Unknown	2022	February	Thursday	14:54	Serious	5	Cycle	8	1	Clear	Village Road	Damaged	Dark	Signals	37	25	Male	Valid	Yes	Bridge
+Goa	Unknown	2021	February	Monday	08:27	Fatal	4	Two-Wheeler	7	4	Foggy	Village Road	Dry	Dark		114	50	Female	Valid	Yes	Intersection
+Arunachal Pradesh	Unknown	2018	December	Saturday	03:45	Serious	5	Auto-Rickshaw	3	3	Clear	National Highway	Damaged	Dusk		72	37	Male	Valid	Yes	Straight Road
+Nagaland	Unknown	2020	July	Sunday	14:58	Minor	5	Cycle	8	5	Stormy	National Highway	Dry	Dark	Signals	80	19	Male	Valid	Yes	Intersection
+West Bengal	Kolkata	2023	May	Tuesday	13:36	Minor	5	Two-Wheeler	0	4	Hazy	Urban Road	Damaged	Dark	Signals	61	53	Female	Expired	No	Intersection
+Odisha	Unknown	2019	March	Thursday	15:05	Serious	1	Car	6	0	Hazy	State Highway	Dry	Dawn	Signs	90	69	Female	Valid	No	Bridge
+West Bengal	Siliguri	2023	February	Saturday	00:13	Fatal	1	Bus	7	4	Hazy	State Highway	Dry	Daylight	Signs	71	31	Male	Valid	Yes	Bridge
+Jammu and Kashmir	Unknown	2023	August	Sunday	14:59	Fatal	2	Truck	9	4	Stormy	National Highway	Under Construction	Dark		88	59	Female		No	Intersection
+Chhattisgarh	Unknown	2018	April	Sunday	06:33	Fatal	1	Bus	0	2	Foggy	State Highway	Dry	Dusk	Signals	68	32	Male	Valid	Yes	Bridge
+Punjab	Unknown	2018	May	Saturday	07:00	Minor	1	Two-Wheeler	2	4	Hazy	Village Road	Damaged	Dawn	Signs	42	57	Female	Expired	No	Straight Road
+Manipur	Unknown	2019	October	Thursday	02:04	Minor	2	Cycle	4	5	Clear	Urban Road	Under Construction	Daylight	Signs	58	18	Female		No	Curve
+West Bengal	Durgapur	2018	September	Thursday	18:31	Serious	5	Truck	3	5	Foggy	State Highway	Under Construction	Daylight		100	18	Male	Valid	No	Curve
+Manipur	Unknown	2019	March	Wednesday	13:17	Serious	4	Pedestrian	3	3	Rainy	Urban Road	Under Construction	Daylight		111	31	Female		No	Straight Road
+Himachal Pradesh	Unknown	2023	March	Sunday	15:02	Fatal	1	Cycle	2	4	Foggy	State Highway	Wet	Dusk	Signals	89	58	Male		No	Curve
+Delhi	Dwarka	2022	March	Sunday	17:14	Minor	4	Auto-Rickshaw	8	2	Foggy	National Highway	Dry	Daylight		61	35	Male		No	Straight Road
+Nagaland	Unknown	2019	September	Thursday	09:24	Minor	2	Car	8	5	Stormy	State Highway	Wet	Dark	Police Checkpost	90	49	Female	Valid	No	Intersection
+Punjab	Unknown	2019	September	Thursday	00:49	Minor	3	Pedestrian	8	0	Hazy	National Highway	Wet	Daylight		99	29	Male	Expired	Yes	Intersection
+Himachal Pradesh	Unknown	2020	January	Tuesday	17:24	Serious	4	Auto-Rickshaw	5	4	Hazy	Urban Road	Dry	Dark		111	37	Female	Valid	Yes	Intersection
+Haryana	Unknown	2023	January	Friday	00:26	Minor	1	Bus	3	1	Stormy	State Highway	Under Construction	Dusk	Signs	98	56	Female	Valid	Yes	Intersection
+Sikkim	Unknown	2023	July	Friday	12:30	Minor	2	Cycle	4	0	Rainy	National Highway	Dry	Dark		37	67	Male		No	Bridge
+Mizoram	Unknown	2021	January	Wednesday	15:27	Fatal	1	Cycle	10	5	Hazy	State Highway	Dry	Dark		67	45	Male		Yes	Intersection
+Sikkim	Unknown	2021	February	Saturday	10:12	Serious	5	Pedestrian	3	1	Foggy	Urban Road	Dry	Dark	Signs	78	56	Male		No	Bridge
+Sikkim	Unknown	2020	August	Friday	08:34	Serious	4	Two-Wheeler	8	4	Rainy	National Highway	Wet	Dark	Police Checkpost	73	70	Male	Expired	No	Curve
+Telangana	Unknown	2020	March	Wednesday	08:29	Fatal	3	Cycle	6	1	Clear	State Highway	Under Construction	Dusk	Police Checkpost	41	24	Female		No	Bridge
+Meghalaya	Unknown	2019	February	Tuesday	17:02	Fatal	5	Two-Wheeler	0	1	Foggy	Village Road	Dry	Daylight		100	52	Male	Expired	No	Intersection
+Chhattisgarh	Unknown	2022	July	Monday	19:58	Fatal	3	Bus	10	0	Clear	State Highway	Dry	Dark	Signs	54	54	Male	Expired	No	Intersection
+Gujarat	Surat	2022	December	Thursday	02:20	Minor	5	Cycle	5	1	Clear	Urban Road	Under Construction	Dark	Signs	84	61	Female		No	Intersection
+Jharkhand	Unknown	2022	July	Thursday	14:18	Serious	4	Truck	4	1	Foggy	National Highway	Under Construction	Dawn		103	58	Female		Yes	Straight Road
+Chhattisgarh	Unknown	2019	October	Saturday	08:59	Minor	3	Pedestrian	8	5	Rainy	Urban Road	Wet	Dusk	Signs	103	62	Female	Expired	No	Curve
+Nagaland	Unknown	2019	September	Saturday	21:35	Serious	5	Auto-Rickshaw	10	4	Rainy	Urban Road	Dry	Dusk	Signals	97	28	Male	Valid	No	Straight Road
+Assam	Unknown	2023	September	Saturday	23:25	Fatal	1	Bus	1	3	Clear	National Highway	Under Construction	Daylight	Police Checkpost	60	48	Male	Valid	Yes	Intersection
+Tripura	Unknown	2018	July	Thursday	12:28	Fatal	5	Auto-Rickshaw	1	0	Foggy	National Highway	Damaged	Dawn		38	49	Female		No	Intersection
+Bihar	Unknown	2018	January	Thursday	14:33	Fatal	4	Auto-Rickshaw	0	2	Foggy	State Highway	Under Construction	Dusk	Signals	56	56	Male	Valid	No	Intersection
+Goa	Unknown	2022	August	Wednesday	14:42	Fatal	2	Two-Wheeler	9	2	Clear	Urban Road	Under Construction	Daylight		100	59	Male	Expired	No	Intersection
+Assam	Unknown	2020	June	Tuesday	00:49	Fatal	2	Two-Wheeler	9	5	Hazy	Urban Road	Wet	Dark	Signs	79	22	Female	Expired	No	Bridge
+Mizoram	Unknown	2020	June	Tuesday	09:21	Fatal	4	Bus	0	4	Stormy	Village Road	Damaged	Dark	Police Checkpost	104	18	Female		Yes	Intersection
+Nagaland	Unknown	2020	June	Sunday	13:47	Serious	1	Auto-Rickshaw	10	2	Hazy	Village Road	Wet	Dusk	Signals	40	60	Female	Expired	No	Bridge
+West Bengal	Kolkata	2018	December	Sunday	11:33	Fatal	4	Car	2	5	Hazy	Village Road	Under Construction	Daylight	Signs	49	49	Male	Valid	Yes	Curve
+Manipur	Unknown	2022	August	Sunday	14:05	Fatal	3	Two-Wheeler	10	4	Stormy	Urban Road	Damaged	Dawn	Signals	93	70	Female	Expired	Yes	Intersection
+Goa	Unknown	2022	January	Sunday	01:23	Minor	4	Truck	10	1	Hazy	National Highway	Damaged	Daylight		59	48	Male		No	Straight Road
+Maharashtra	Nagpur	2023	December	Sunday	15:36	Fatal	2	Cycle	6	2	Clear	Urban Road	Damaged	Daylight	Police Checkpost	46	49	Female	Expired	Yes	Intersection
+Goa	Unknown	2020	January	Friday	04:11	Serious	5	Two-Wheeler	9	2	Clear	Urban Road	Wet	Daylight	Signs	49	34	Female	Valid	Yes	Straight Road
+Mizoram	Unknown	2018	January	Tuesday	18:22	Serious	4	Pedestrian	4	5	Rainy	State Highway	Dry	Daylight	Police Checkpost	46	62	Female	Expired	Yes	Curve
+Sikkim	Unknown	2019	April	Sunday	21:28	Serious	2	Two-Wheeler	0	2	Rainy	State Highway	Under Construction	Daylight	Police Checkpost	109	21	Male	Valid	Yes	Straight Road
+Haryana	Unknown	2019	January	Sunday	20:13	Minor	3	Auto-Rickshaw	2	4	Clear	Village Road	Dry	Dark		96	53	Male		Yes	Intersection
+Tripura	Unknown	2019	May	Friday	05:23	Serious	5	Pedestrian	6	0	Rainy	State Highway	Under Construction	Dawn	Police Checkpost	35	40	Female		Yes	Bridge
+Assam	Unknown	2023	January	Tuesday	08:24	Fatal	2	Two-Wheeler	6	1	Clear	Village Road	Under Construction	Dark	Signals	95	21	Female		Yes	Bridge
+Maharashtra	Nagpur	2022	July	Wednesday	05:39	Fatal	5	Pedestrian	10	0	Stormy	State Highway	Damaged	Daylight	Signals	75	37	Female	Expired	Yes	Straight Road
+Manipur	Unknown	2021	February	Wednesday	23:09	Fatal	3	Auto-Rickshaw	9	1	Rainy	National Highway	Damaged	Dawn	Signs	49	36	Male		No	Bridge
+Madhya Pradesh	Unknown	2023	April	Tuesday	13:09	Fatal	2	Cycle	7	1	Rainy	Village Road	Dry	Dawn	Signals	65	35	Male		Yes	Straight Road
+Bihar	Unknown	2018	December	Tuesday	14:40	Fatal	2	Car	1	5	Rainy	National Highway	Damaged	Dusk	Signs	101	45	Male	Expired	No	Curve
+Kerala	Unknown	2022	April	Saturday	08:40	Serious	5	Two-Wheeler	7	2	Stormy	State Highway	Under Construction	Dawn	Police Checkpost	106	54	Male	Valid	Yes	Bridge
+Chandigarh	Unknown	2022	August	Monday	20:07	Minor	2	Bus	3	1	Foggy	Urban Road	Under Construction	Dusk		101	49	Female	Valid	Yes	Curve
+Karnataka	Mangalore	2019	July	Saturday	14:12	Serious	4	Cycle	8	0	Stormy	State Highway	Dry	Dusk	Signals	68	50	Female		Yes	Straight Road
+Karnataka	Mangalore	2020	June	Friday	13:00	Serious	5	Bus	4	1	Hazy	Village Road	Under Construction	Dusk		66	34	Female		No	Straight Road
+Puducherry	Unknown	2019	November	Thursday	21:57	Serious	2	Car	10	2	Rainy	National Highway	Damaged	Dark	Police Checkpost	118	42	Male	Valid	Yes	Bridge
+Maharashtra	Pune	2020	February	Saturday	12:06	Fatal	4	Truck	1	0	Foggy	State Highway	Damaged	Dusk	Signals	71	20	Female	Valid	No	Bridge
+Goa	Unknown	2021	March	Saturday	03:39	Serious	2	Bus	6	4	Hazy	Village Road	Under Construction	Dark	Signals	30	66	Male	Expired	No	Curve
+Assam	Unknown	2021	August	Sunday	07:34	Fatal	5	Bus	3	3	Hazy	Urban Road	Wet	Dawn		32	60	Female		Yes	Intersection
+Chandigarh	Unknown	2020	May	Wednesday	16:58	Serious	2	Auto-Rickshaw	2	5	Clear	Village Road	Wet	Dusk	Police Checkpost	107	60	Female	Expired	No	Bridge
+Meghalaya	Unknown	2021	May	Sunday	00:22	Minor	1	Cycle	0	2	Foggy	State Highway	Damaged	Dark		112	37	Female	Valid	No	Intersection
+Odisha	Unknown	2023	January	Saturday	13:07	Serious	5	Truck	10	0	Clear	State Highway	Dry	Daylight	Signals	78	44	Female	Expired	No	Curve
+Nagaland	Unknown	2019	September	Tuesday	19:05	Fatal	1	Cycle	5	3	Rainy	Village Road	Wet	Dark	Police Checkpost	31	20	Female		Yes	Bridge
+Odisha	Unknown	2020	October	Friday	14:37	Minor	3	Bus	2	0	Clear	Urban Road	Under Construction	Dusk	Signals	104	43	Male		Yes	Straight Road
+Tamil Nadu	Madurai	2021	May	Friday	14:10	Minor	5	Truck	5	4	Rainy	Urban Road	Under Construction	Daylight	Signals	72	22	Male		Yes	Bridge
+Goa	Unknown	2020	September	Tuesday	17:31	Fatal	1	Cycle	8	5	Rainy	National Highway	Under Construction	Daylight	Police Checkpost	107	20	Female	Expired	Yes	Straight Road
+Manipur	Unknown	2023	February	Thursday	22:05	Fatal	1	Truck	6	3	Foggy	State Highway	Under Construction	Daylight		52	70	Female	Expired	No	Curve
+Delhi	New Delhi	2020	November	Saturday	20:51	Serious	4	Two-Wheeler	3	4	Hazy	State Highway	Damaged	Dusk	Signals	57	51	Male		Yes	Bridge
+Sikkim	Unknown	2018	June	Wednesday	01:05	Serious	5	Two-Wheeler	5	2	Foggy	National Highway	Dry	Dawn	Signs	105	26	Female		Yes	Bridge
+Karnataka	Bangalore	2021	September	Saturday	11:04	Minor	4	Auto-Rickshaw	10	3	Clear	Village Road	Dry	Dark	Police Checkpost	56	37	Female	Valid	Yes	Bridge
+Maharashtra	Nagpur	2019	April	Wednesday	02:30	Fatal	5	Pedestrian	0	4	Rainy	Village Road	Damaged	Daylight		99	50	Male	Valid	No	Curve
+Delhi	New Delhi	2018	December	Thursday	00:02	Minor	4	Bus	8	3	Hazy	State Highway	Damaged	Daylight		48	47	Male		Yes	Curve
+Haryana	Unknown	2019	April	Friday	23:24	Minor	5	Two-Wheeler	5	3	Rainy	Urban Road	Damaged	Dawn	Signs	59	32	Female		Yes	Bridge
+Assam	Unknown	2018	September	Friday	05:04	Serious	3	Truck	9	5	Foggy	State Highway	Wet	Dark	Signs	51	45	Female	Valid	No	Curve
+Jharkhand	Unknown	2019	December	Saturday	14:33	Minor	4	Cycle	2	1	Rainy	Village Road	Under Construction	Dark	Signals	115	48	Male	Expired	No	Straight Road
+Nagaland	Unknown	2019	February	Monday	13:27	Fatal	2	Bus	8	5	Stormy	National Highway	Dry	Dark	Signals	46	43	Female	Expired	No	Bridge
+Delhi	Rohini	2018	June	Thursday	03:42	Minor	2	Auto-Rickshaw	5	3	Rainy	Urban Road	Under Construction	Dusk	Signs	69	64	Male	Valid	No	Curve
+Maharashtra	Mumbai	2022	November	Wednesday	02:40	Serious	4	Two-Wheeler	1	0	Hazy	Urban Road	Under Construction	Dark	Signs	119	37	Female	Valid	Yes	Straight Road
+Himachal Pradesh	Unknown	2019	July	Wednesday	06:56	Serious	5	Auto-Rickshaw	2	1	Rainy	National Highway	Dry	Daylight	Signs	60	42	Female	Valid	No	Bridge
+Gujarat	Vadodara	2019	January	Thursday	17:33	Fatal	2	Truck	4	1	Hazy	National Highway	Wet	Dark	Signs	46	23	Female	Valid	No	Curve
+Tamil Nadu	Coimbatore	2018	November	Sunday	15:36	Minor	1	Auto-Rickshaw	8	0	Hazy	State Highway	Under Construction	Dawn		103	47	Male	Expired	Yes	Straight Road
+Assam	Unknown	2020	May	Saturday	20:02	Fatal	4	Cycle	7	2	Clear	State Highway	Wet	Dawn	Signs	75	55	Female		Yes	Bridge
+Kerala	Unknown	2019	October	Friday	12:24	Serious	5	Bus	1	4	Stormy	Urban Road	Dry	Dark	Signs	75	39	Male	Expired	No	Intersection
+Rajasthan	Udaipur	2020	May	Sunday	14:39	Serious	3	Car	10	4	Rainy	National Highway	Damaged	Dark		56	39	Female		Yes	Bridge
+Andhra Pradesh	Tirupati	2020	February	Tuesday	18:24	Minor	3	Pedestrian	9	3	Stormy	Urban Road	Dry	Dusk		57	59	Male		Yes	Bridge
+Delhi	Rohini	2018	January	Friday	13:21	Fatal	5	Pedestrian	9	5	Foggy	State Highway	Damaged	Dark		45	52	Female	Expired	Yes	Straight Road
+Puducherry	Unknown	2018	August	Sunday	10:45	Minor	4	Auto-Rickshaw	3	0	Foggy	National Highway	Damaged	Dark	Police Checkpost	88	69	Female	Valid	Yes	Intersection
+Gujarat	Ahmedabad	2020	April	Monday	02:24	Serious	1	Cycle	10	4	Rainy	Village Road	Dry	Dark	Signs	114	42	Male		Yes	Curve
+Uttarakhand	Unknown	2023	July	Wednesday	10:24	Minor	1	Two-Wheeler	7	1	Foggy	Urban Road	Damaged	Dusk	Signals	32	19	Female	Valid	No	Curve
+Odisha	Unknown	2019	November	Friday	11:43	Serious	3	Car	0	5	Rainy	Urban Road	Under Construction	Dusk	Signals	105	39	Male		No	Bridge
+Delhi	Rohini	2020	October	Tuesday	23:18	Fatal	5	Two-Wheeler	7	1	Stormy	National Highway	Dry	Dark	Signs	112	21	Male	Expired	No	Curve
+Arunachal Pradesh	Unknown	2023	December	Wednesday	10:34	Minor	2	Two-Wheeler	9	5	Rainy	Village Road	Damaged	Dark	Signs	102	45	Female	Valid	Yes	Curve
+Uttar Pradesh	Varanasi	2021	June	Monday	20:31	Fatal	1	Cycle	10	2	Stormy	Village Road	Dry	Dusk	Police Checkpost	87	27	Male	Expired	No	Intersection
+Chhattisgarh	Unknown	2023	March	Monday	12:48	Fatal	3	Bus	9	3	Rainy	National Highway	Under Construction	Dawn		71	42	Female	Valid	Yes	Bridge
+Assam	Unknown	2019	March	Thursday	22:42	Fatal	3	Truck	3	5	Stormy	National Highway	Dry	Dark	Signs	47	20	Male	Valid	Yes	Bridge
+Manipur	Unknown	2018	December	Thursday	22:52	Serious	2	Pedestrian	5	0	Rainy	Village Road	Under Construction	Dark		39	38	Male		No	Bridge
+Kerala	Unknown	2023	August	Sunday	09:21	Minor	4	Bus	10	1	Foggy	Urban Road	Wet	Daylight	Signs	37	33	Female	Expired	Yes	Straight Road
+Andhra Pradesh	Visakhapatnam	2021	May	Saturday	15:12	Minor	1	Cycle	3	0	Clear	State Highway	Dry	Daylight	Police Checkpost	86	23	Male	Valid	No	Straight Road
+Goa	Unknown	2023	March	Saturday	01:12	Minor	4	Truck	6	2	Clear	National Highway	Wet	Dusk	Signs	65	40	Female	Valid	Yes	Curve
+Delhi	Dwarka	2021	June	Tuesday	15:28	Serious	3	Two-Wheeler	7	5	Hazy	Village Road	Under Construction	Daylight	Signs	95	24	Female		No	Intersection
+Tamil Nadu	Madurai	2023	February	Friday	13:19	Fatal	5	Cycle	7	5	Hazy	State Highway	Wet	Daylight	Police Checkpost	42	55	Female	Valid	Yes	Bridge
+Uttar Pradesh	Lucknow	2020	September	Monday	17:45	Fatal	1	Pedestrian	7	5	Rainy	State Highway	Under Construction	Dawn	Police Checkpost	76	18	Female		Yes	Intersection
+Mizoram	Unknown	2023	December	Monday	15:54	Serious	5	Pedestrian	2	0	Hazy	State Highway	Under Construction	Dark	Police Checkpost	38	66	Male	Valid	No	Straight Road
+Tamil Nadu	Chennai	2023	June	Saturday	09:34	Serious	5	Auto-Rickshaw	0	5	Hazy	National Highway	Wet	Daylight	Signals	37	50	Female	Valid	No	Bridge
+Tripura	Unknown	2023	May	Thursday	07:08	Fatal	3	Auto-Rickshaw	8	3	Stormy	National Highway	Wet	Dawn	Police Checkpost	36	56	Male	Valid	No	Bridge
+Odisha	Unknown	2019	May	Saturday	19:44	Serious	1	Bus	10	3	Rainy	Urban Road	Damaged	Dusk		104	53	Female	Valid	No	Bridge
+Telangana	Unknown	2021	May	Saturday	21:19	Serious	1	Two-Wheeler	4	1	Clear	State Highway	Under Construction	Daylight	Signs	34	19	Female		Yes	Straight Road
+Meghalaya	Unknown	2018	July	Friday	06:57	Minor	1	Bus	2	5	Clear	Village Road	Under Construction	Dusk	Police Checkpost	69	31	Female	Valid	No	Bridge
+Nagaland	Unknown	2019	April	Sunday	16:46	Serious	3	Car	2	4	Hazy	State Highway	Damaged	Daylight	Signs	105	42	Male		No	Intersection
+Karnataka	Mysore	2020	September	Thursday	22:01	Minor	5	Truck	0	3	Foggy	Urban Road	Dry	Dark	Signs	80	51	Female		Yes	Intersection
+Tripura	Unknown	2019	March	Sunday	07:09	Fatal	2	Bus	8	0	Rainy	State Highway	Wet	Daylight	Signs	71	31	Male	Valid	Yes	Curve
+Jharkhand	Unknown	2019	October	Wednesday	02:18	Serious	5	Two-Wheeler	6	5	Clear	State Highway	Under Construction	Dusk		64	29	Male	Expired	No	Bridge
+Chhattisgarh	Unknown	2022	April	Tuesday	08:58	Minor	4	Bus	3	2	Stormy	National Highway	Damaged	Daylight	Signs	115	70	Male		No	Curve
+Uttarakhand	Unknown	2019	June	Monday	16:15	Minor	3	Car	3	0	Stormy	State Highway	Dry	Dusk	Signals	37	58	Female		No	Curve
+Goa	Unknown	2023	September	Thursday	14:29	Minor	3	Bus	0	1	Foggy	State Highway	Damaged	Dawn		64	19	Male		No	Straight Road
+Andhra Pradesh	Vijayawada	2019	November	Wednesday	05:52	Serious	4	Cycle	4	3	Foggy	State Highway	Under Construction	Daylight		117	36	Female		Yes	Straight Road
+Arunachal Pradesh	Unknown	2021	September	Sunday	18:22	Serious	1	Bus	10	5	Hazy	National Highway	Dry	Daylight		115	26	Male	Valid	Yes	Intersection
+Kerala	Unknown	2020	May	Friday	03:47	Serious	4	Bus	5	4	Clear	Urban Road	Damaged	Dawn	Signs	110	26	Female	Valid	No	Bridge
+Rajasthan	Udaipur	2020	April	Tuesday	05:59	Fatal	1	Two-Wheeler	4	3	Hazy	Urban Road	Under Construction	Dark	Signals	36	20	Female		No	Intersection
+Mizoram	Unknown	2021	May	Monday	15:15	Minor	2	Pedestrian	9	4	Clear	Village Road	Under Construction	Dusk	Signs	49	50	Male	Expired	Yes	Intersection
+Meghalaya	Unknown	2021	April	Sunday	20:40	Fatal	5	Bus	4	4	Foggy	Urban Road	Wet	Dark	Signs	70	46	Male	Valid	No	Intersection
+Tripura	Unknown	2022	September	Tuesday	14:23	Fatal	3	Bus	8	2	Clear	Urban Road	Damaged	Daylight	Signs	101	24	Female		Yes	Intersection
+Rajasthan	Jodhpur	2022	July	Sunday	10:02	Serious	5	Auto-Rickshaw	10	1	Rainy	Urban Road	Dry	Daylight		55	31	Female		Yes	Straight Road
+Mizoram	Unknown	2022	April	Thursday	05:46	Fatal	4	Cycle	4	5	Hazy	State Highway	Dry	Dawn		32	61	Male		Yes	Intersection
+Chhattisgarh	Unknown	2021	January	Sunday	00:31	Minor	3	Pedestrian	9	5	Rainy	Urban Road	Damaged	Dawn	Police Checkpost	107	25	Male		No	Straight Road
+Mizoram	Unknown	2022	June	Sunday	19:47	Serious	4	Auto-Rickshaw	9	2	Hazy	Village Road	Damaged	Dark	Signs	101	22	Male		Yes	Curve
+Haryana	Unknown	2020	July	Sunday	22:36	Serious	2	Two-Wheeler	10	3	Clear	Urban Road	Damaged	Dark		61	46	Female	Valid	No	Bridge
+Bihar	Unknown	2021	March	Monday	17:14	Fatal	2	Cycle	8	4	Rainy	National Highway	Damaged	Daylight		107	70	Male		No	Intersection
+West Bengal	Kolkata	2018	August	Thursday	21:29	Minor	4	Cycle	5	4	Stormy	State Highway	Under Construction	Dawn	Signs	59	29	Male		Yes	Straight Road
+Jharkhand	Unknown	2021	September	Sunday	20:49	Fatal	2	Bus	3	3	Clear	State Highway	Under Construction	Dusk	Signs	62	70	Female		No	Intersection
+Jammu and Kashmir	Unknown	2023	March	Friday	16:13	Fatal	4	Bus	9	4	Hazy	State Highway	Dry	Dark		102	59	Female	Valid	Yes	Curve
+Arunachal Pradesh	Unknown	2021	April	Tuesday	11:37	Fatal	1	Auto-Rickshaw	6	1	Clear	National Highway	Under Construction	Dawn	Signs	33	28	Female	Expired	No	Bridge
+Odisha	Unknown	2022	November	Wednesday	23:03	Minor	3	Car	2	5	Rainy	Village Road	Dry	Daylight	Signals	31	33	Male	Expired	No	Curve
+Meghalaya	Unknown	2019	September	Monday	18:32	Minor	5	Bus	8	2	Foggy	National Highway	Under Construction	Dusk		58	19	Female	Valid	No	Straight Road
+Chhattisgarh	Unknown	2021	November	Wednesday	09:16	Fatal	1	Cycle	8	2	Stormy	Village Road	Dry	Daylight	Signals	99	56	Male	Expired	No	Bridge
+Jammu and Kashmir	Unknown	2022	October	Sunday	16:42	Fatal	1	Two-Wheeler	8	5	Stormy	Village Road	Dry	Daylight	Signals	88	60	Female		Yes	Bridge
+Meghalaya	Unknown	2022	October	Thursday	00:51	Minor	3	Cycle	8	0	Foggy	Village Road	Damaged	Dark	Signs	45	23	Male	Expired	Yes	Straight Road
+Himachal Pradesh	Unknown	2023	July	Saturday	23:16	Fatal	1	Cycle	10	3	Hazy	Village Road	Dry	Daylight	Signals	101	20	Female	Expired	Yes	Curve
+Andhra Pradesh	Visakhapatnam	2019	May	Wednesday	21:23	Fatal	2	Truck	9	0	Stormy	National Highway	Damaged	Daylight		61	62	Female	Expired	Yes	Straight Road
+West Bengal	Siliguri	2020	March	Friday	23:04	Fatal	3	Two-Wheeler	10	5	Hazy	National Highway	Dry	Dusk	Police Checkpost	104	67	Female	Expired	No	Bridge
+Jharkhand	Unknown	2020	December	Thursday	13:03	Minor	2	Car	10	4	Foggy	National Highway	Damaged	Dark	Signs	112	37	Female	Valid	No	Curve
+Chandigarh	Unknown	2019	June	Saturday	21:18	Fatal	3	Car	5	4	Rainy	National Highway	Wet	Dusk	Signs	80	19	Female	Expired	No	Intersection
+Jammu and Kashmir	Unknown	2023	May	Saturday	23:01	Serious	4	Bus	3	3	Clear	National Highway	Dry	Dusk		116	28	Male	Expired	Yes	Bridge
+Telangana	Unknown	2021	November	Monday	12:45	Serious	3	Cycle	5	4	Rainy	Village Road	Under Construction	Dark		72	69	Female		No	Curve
+Madhya Pradesh	Unknown	2020	April	Tuesday	09:16	Minor	4	Auto-Rickshaw	2	1	Rainy	State Highway	Damaged	Dark	Signals	59	52	Male	Valid	Yes	Intersection
+Mizoram	Unknown	2022	October	Friday	11:30	Minor	2	Car	0	2	Rainy	Village Road	Wet	Dusk	Signs	40	42	Female	Expired	Yes	Straight Road
+Kerala	Unknown	2022	July	Saturday	14:16	Minor	5	Pedestrian	9	3	Stormy	Village Road	Under Construction	Daylight	Signals	107	40	Male		Yes	Bridge
+Sikkim	Unknown	2021	April	Saturday	01:24	Fatal	1	Pedestrian	5	2	Rainy	Village Road	Wet	Dusk	Police Checkpost	101	68	Female	Valid	No	Straight Road
+Rajasthan	Udaipur	2020	February	Tuesday	04:58	Serious	1	Cycle	8	1	Rainy	National Highway	Dry	Dawn	Signs	79	62	Male	Expired	No	Intersection
+Punjab	Unknown	2021	March	Thursday	22:06	Serious	5	Truck	5	3	Hazy	National Highway	Damaged	Daylight		50	45	Female	Expired	Yes	Intersection
+Chandigarh	Unknown	2019	January	Monday	22:47	Minor	5	Cycle	8	3	Foggy	State Highway	Under Construction	Dawn	Signs	89	69	Male		Yes	Curve
+Jammu and Kashmir	Unknown	2021	June	Sunday	22:15	Serious	4	Two-Wheeler	9	5	Stormy	State Highway	Under Construction	Dusk	Police Checkpost	34	41	Female		Yes	Curve
+Haryana	Unknown	2023	May	Wednesday	06:59	Fatal	2	Auto-Rickshaw	2	4	Clear	National Highway	Damaged	Daylight		34	23	Male		No	Curve
+Nagaland	Unknown	2021	May	Wednesday	15:49	Fatal	5	Cycle	4	5	Rainy	National Highway	Wet	Dusk		59	53	Male	Valid	No	Bridge
+Manipur	Unknown	2022	September	Monday	01:46	Minor	5	Auto-Rickshaw	3	2	Stormy	National Highway	Under Construction	Dusk	Signs	32	68	Female	Expired	No	Bridge
+Sikkim	Unknown	2021	June	Wednesday	10:18	Fatal	2	Car	7	4	Hazy	State Highway	Dry	Dark	Signals	37	61	Female		No	Straight Road
+Manipur	Unknown	2018	September	Friday	12:45	Serious	3	Pedestrian	5	0	Foggy	Village Road	Dry	Dawn	Signals	120	53	Female	Expired	Yes	Straight Road
+Manipur	Unknown	2021	October	Friday	22:19	Minor	2	Truck	9	2	Clear	National Highway	Wet	Dusk		92	67	Female	Valid	No	Straight Road
+Tripura	Unknown	2022	November	Sunday	17:12	Serious	5	Car	3	1	Clear	National Highway	Wet	Dusk	Signals	77	45	Female	Valid	Yes	Bridge
+Haryana	Unknown	2021	May	Sunday	03:16	Minor	3	Car	5	0	Clear	State Highway	Dry	Dawn	Signs	72	43	Male	Valid	No	Curve
+Chandigarh	Unknown	2020	July	Tuesday	15:10	Minor	4	Car	0	3	Rainy	National Highway	Wet	Daylight		58	18	Female		No	Straight Road
+Puducherry	Unknown	2020	November	Thursday	09:30	Serious	4	Two-Wheeler	1	3	Clear	State Highway	Dry	Dark		70	65	Female	Expired	Yes	Intersection
+Karnataka	Bangalore	2020	February	Wednesday	09:44	Minor	3	Auto-Rickshaw	2	4	Rainy	State Highway	Damaged	Dawn	Police Checkpost	97	32	Female	Valid	Yes	Bridge
+Assam	Unknown	2018	September	Monday	14:15	Fatal	2	Cycle	7	1	Foggy	Urban Road	Wet	Dusk	Police Checkpost	118	55	Male		Yes	Bridge
+Karnataka	Mangalore	2020	December	Thursday	21:53	Minor	4	Truck	6	3	Rainy	Urban Road	Under Construction	Dark	Signals	74	64	Female	Expired	Yes	Straight Road
+Himachal Pradesh	Unknown	2020	May	Tuesday	20:03	Fatal	2	Car	9	0	Foggy	National Highway	Under Construction	Dusk	Police Checkpost	100	29	Male	Expired	No	Intersection
+Delhi	Dwarka	2021	March	Thursday	14:16	Serious	2	Auto-Rickshaw	3	0	Clear	Village Road	Dry	Daylight	Signs	76	31	Female	Valid	No	Intersection
+Haryana	Unknown	2022	May	Monday	20:56	Minor	2	Bus	4	3	Clear	Urban Road	Wet	Dawn		98	24	Male	Expired	Yes	Bridge
+Jammu and Kashmir	Unknown	2022	November	Tuesday	08:52	Fatal	3	Bus	0	0	Foggy	Urban Road	Damaged	Dark	Signals	99	20	Female		No	Straight Road
+Tripura	Unknown	2018	April	Friday	21:57	Serious	4	Two-Wheeler	10	2	Clear	Village Road	Damaged	Dawn	Signals	31	31	Male		No	Bridge
+Mizoram	Unknown	2021	May	Monday	00:09	Serious	3	Cycle	6	5	Clear	State Highway	Wet	Dawn	Signals	108	27	Female	Expired	No	Bridge
+Haryana	Unknown	2023	June	Monday	19:15	Minor	3	Auto-Rickshaw	4	1	Rainy	State Highway	Wet	Dusk	Signals	54	19	Male	Expired	Yes	Straight Road
+Jammu and Kashmir	Unknown	2023	February	Wednesday	09:48	Serious	3	Truck	0	3	Stormy	Village Road	Wet	Dusk	Signs	61	61	Male	Valid	No	Straight Road
+Kerala	Unknown	2021	June	Tuesday	10:38	Fatal	4	Auto-Rickshaw	2	5	Rainy	Urban Road	Dry	Dark	Signs	31	25	Male		No	Straight Road
+Jharkhand	Unknown	2021	September	Friday	02:46	Minor	2	Auto-Rickshaw	2	4	Clear	Urban Road	Wet	Dawn		67	35	Male	Expired	No	Intersection
+Jammu and Kashmir	Unknown	2018	December	Saturday	17:17	Minor	1	Two-Wheeler	3	4	Hazy	State Highway	Dry	Dark	Signals	112	32	Female		Yes	Straight Road
+Jammu and Kashmir	Unknown	2022	October	Wednesday	14:14	Minor	1	Truck	1	5	Stormy	Village Road	Under Construction	Dusk		61	59	Male	Valid	Yes	Curve
+Nagaland	Unknown	2020	June	Tuesday	18:22	Minor	1	Two-Wheeler	3	1	Hazy	National Highway	Dry	Dusk	Police Checkpost	91	34	Female	Expired	No	Straight Road
+Jammu and Kashmir	Unknown	2020	September	Thursday	10:46	Minor	5	Pedestrian	10	2	Clear	State Highway	Wet	Dusk	Signals	111	36	Male	Valid	No	Bridge
+Rajasthan	Udaipur	2021	September	Friday	12:00	Fatal	5	Two-Wheeler	10	0	Foggy	Urban Road	Dry	Dusk		102	34	Female	Valid	Yes	Intersection
+Kerala	Unknown	2022	September	Monday	03:56	Fatal	5	Pedestrian	6	0	Foggy	Urban Road	Under Construction	Dawn	Signals	55	23	Female		No	Straight Road
+Jharkhand	Unknown	2021	November	Friday	04:30	Fatal	1	Car	2	0	Stormy	State Highway	Under Construction	Dark	Police Checkpost	34	30	Male	Expired	Yes	Bridge
+Punjab	Unknown	2022	March	Tuesday	20:13	Minor	4	Auto-Rickshaw	8	3	Rainy	Village Road	Damaged	Dawn	Signals	32	24	Female	Expired	No	Curve
+Uttar Pradesh	Varanasi	2021	December	Wednesday	14:20	Minor	1	Truck	3	4	Rainy	National Highway	Damaged	Dusk	Police Checkpost	111	42	Male		Yes	Bridge
+Sikkim	Unknown	2022	March	Monday	20:19	Minor	1	Two-Wheeler	7	1	Hazy	Village Road	Under Construction	Daylight		118	38	Female		No	Curve
+Punjab	Unknown	2021	June	Monday	01:03	Serious	2	Car	1	0	Foggy	State Highway	Wet	Dark	Police Checkpost	40	35	Male		No	Straight Road
+Maharashtra	Mumbai	2018	December	Monday	13:05	Serious	1	Bus	8	1	Stormy	National Highway	Damaged	Daylight	Signs	55	45	Male		Yes	Curve
+Assam	Unknown	2019	June	Friday	09:07	Minor	3	Truck	8	2	Clear	Urban Road	Damaged	Dark	Signs	74	64	Female	Valid	Yes	Intersection
+Jammu and Kashmir	Unknown	2018	August	Wednesday	07:02	Serious	4	Bus	10	2	Hazy	National Highway	Wet	Daylight		45	64	Female	Expired	No	Bridge
+Sikkim	Unknown	2022	January	Thursday	09:31	Fatal	5	Pedestrian	1	3	Stormy	Village Road	Damaged	Dawn	Signs	59	36	Male	Expired	No	Intersection
+Uttar Pradesh	Varanasi	2022	April	Friday	05:38	Fatal	4	Truck	8	5	Rainy	Village Road	Under Construction	Dawn	Police Checkpost	111	21	Male		No	Bridge
+Mizoram	Unknown	2021	June	Wednesday	21:12	Serious	3	Two-Wheeler	1	5	Stormy	National Highway	Under Construction	Dawn	Signs	111	43	Female	Expired	Yes	Intersection
+Chhattisgarh	Unknown	2020	October	Thursday	03:27	Serious	2	Auto-Rickshaw	1	2	Rainy	Urban Road	Under Construction	Dusk	Signals	40	56	Female	Valid	Yes	Intersection
+Manipur	Unknown	2018	February	Saturday	18:33	Fatal	5	Two-Wheeler	3	3	Stormy	State Highway	Under Construction	Daylight	Signals	91	40	Male		No	Straight Road
+Goa	Unknown	2020	September	Monday	21:00	Minor	2	Truck	7	1	Hazy	Urban Road	Under Construction	Dark	Police Checkpost	72	70	Female	Expired	No	Straight Road
+Sikkim	Unknown	2021	October	Monday	13:22	Minor	2	Pedestrian	4	2	Clear	National Highway	Wet	Daylight	Police Checkpost	51	36	Male		Yes	Bridge
+Jharkhand	Unknown	2023	September	Thursday	17:41	Fatal	3	Car	2	4	Clear	Urban Road	Wet	Dawn	Signals	102	64	Male	Valid	Yes	Curve
+Bihar	Unknown	2023	August	Wednesday	19:58	Serious	3	Truck	5	3	Clear	National Highway	Dry	Dark		30	50	Male	Valid	Yes	Curve
+Chhattisgarh	Unknown	2018	October	Monday	00:02	Minor	2	Auto-Rickshaw	3	0	Stormy	National Highway	Under Construction	Dusk	Signs	112	70	Male	Valid	No	Intersection
+Uttarakhand	Unknown	2020	August	Sunday	04:35	Minor	2	Bus	10	1	Clear	State Highway	Dry	Dawn	Signs	53	57	Male	Valid	No	Bridge
+Meghalaya	Unknown	2023	February	Friday	20:36	Fatal	4	Pedestrian	2	3	Rainy	State Highway	Dry	Dawn	Signs	45	49	Female	Valid	Yes	Intersection
+Maharashtra	Nagpur	2020	April	Tuesday	02:05	Serious	2	Pedestrian	0	4	Rainy	Village Road	Wet	Dark	Signs	106	46	Female	Expired	No	Straight Road
+Kerala	Unknown	2021	May	Thursday	08:14	Serious	4	Two-Wheeler	8	0	Clear	State Highway	Under Construction	Dusk	Police Checkpost	76	26	Female	Valid	Yes	Curve
+Kerala	Unknown	2023	December	Monday	22:10	Minor	1	Cycle	2	4	Stormy	National Highway	Damaged	Dusk	Signs	76	54	Male	Valid	No	Curve
+Assam	Unknown	2019	December	Monday	14:00	Serious	5	Auto-Rickshaw	4	3	Foggy	Village Road	Damaged	Dawn	Signs	81	50	Female	Valid	Yes	Straight Road
+Andhra Pradesh	Visakhapatnam	2022	April	Saturday	05:08	Serious	2	Truck	8	3	Hazy	State Highway	Damaged	Daylight	Signs	51	44	Male		No	Bridge
+Maharashtra	Pune	2019	July	Tuesday	15:05	Serious	1	Truck	2	4	Rainy	National Highway	Under Construction	Dawn		32	27	Female		No	Curve
+Gujarat	Surat	2023	January	Monday	21:28	Minor	2	Two-Wheeler	10	5	Clear	State Highway	Under Construction	Daylight	Signs	91	25	Male		No	Bridge
+Arunachal Pradesh	Unknown	2023	March	Tuesday	17:37	Minor	3	Bus	0	2	Rainy	National Highway	Dry	Daylight	Signs	82	50	Male	Expired	No	Bridge
+Mizoram	Unknown	2022	March	Friday	04:27	Serious	2	Car	7	4	Rainy	Urban Road	Damaged	Dusk		86	43	Male		No	Intersection
