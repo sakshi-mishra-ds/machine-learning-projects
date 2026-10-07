@@ -1,114 +1,111 @@
-# Accident Severity Prediction
+# Machine Learning & Data Analytics Projects
 
-A Machine Learning project that predicts the severity of road accidents using accident-related features such as location, time, weather, road conditions, vehicle information, and driver details.
+Welcome to my portfolio of Machine Learning, Natural Language Processing, and Data Analytics projects.
 
-##  Project Overview
+This repository contains projects developed using Python, Machine Learning, NLP, and Power BI.
 
-Road accidents can vary in severity depending on several factors such as weather conditions, road conditions, traffic conditions, number of vehicles involved, and other environmental and driver-related factors.
+---
 
-This project uses Machine Learning techniques to analyze accident data and predict accident severity.
+## Projects
 
-##  Objective
+### 1. 🚗 Accident Severity Prediction
 
-The main objectives of this project are:
+A Machine Learning project that predicts the severity of road accidents using accident-related features.
 
-- Analyze road accident data
-- Perform data preprocessing and feature engineering
-- Convert categorical features into numerical values
-- Train a Machine Learning classification model
-- Predict accident severity
-- Evaluate model performance
-
-##  Dataset
-
-The dataset contains information related to road accidents.
-
-### Dataset Features
-
-Some of the important features include:
-
-- State Name
-- City Name
-- Year
-- Month
-- Day of Week
-- Time of Day
-- Accident Severity
-- Number of Vehicles Involved
-- Vehicle Type Involved
-- Number of Casualties
-- Weather Condition
-- Road Type
-- Road Condition
-- Lighting Condition
-- Traffic Condition
-- Speed Limit
-- Driver Age
-- Driver Gender
-- Driver License Status
-- Alcohol Involvement
-- Road-related factors
-
-The original dataset contains **3,000 records and 22 features**.
-
-A smaller sample dataset containing **500 records and 22 features** is also included in this repository for easier demonstration.
-
-##  Technologies Used
-
+**Technologies:**
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
 - Jupyter Notebook
-- Machine Learning
 
-## Machine Learning
-
-The project uses a classification approach for predicting accident severity.
-
-### Algorithm Used
-
+**Machine Learning Model:**
 - Random Forest Classifier
 
-### Data Preprocessing
+**Project Files:**
 
-The following preprocessing steps were performed:
+[View Accident Severity Prediction Notebook](./accident_severity_prediction.ipynb)
 
-1. Loading the dataset
-2. Checking the dataset structure
-3. Encoding categorical variables
-4. Preparing features and target variable
-5. Splitting the data into training and testing sets
-6. Training the Machine Learning model
-7. Making predictions
-8. Evaluating model performance
+[View Accident Sample Dataset](./accident_prediction_sample.csv)
 
-##  Model Evaluation
+---
 
-The model performance is evaluated using:
+### 2. ⚖️ Legal Text Classification
 
-- Accuracy Score
-- Confusion Matrix
-## ▶️ How to Run the Project
+A Natural Language Processing project that uses legal case text to predict a bias label.
 
-### 1. Clone the repository
+**Technologies:**
+- Python
+- Pandas
+- Scikit-learn
+- NLP
+- Jupyter Notebook
 
-```bash
-git clone https://github.com/sakshi-mishra-ds/machine-learning-projects.git
-```
+**Techniques:**
+- TF-IDF
+- Logistic Regression
 
-### 2. Open the project
+**Dataset:**
+- 1,500 legal case records
+- 13 features
 
-Open the project folder in Jupyter Notebook or JupyterLab.
+**Model Accuracy:**
+- 51.33%
 
-### 3. Install required libraries
+**Project:**
 
-```bash
-pip install pandas numpy scikit-learn
-```
+[View Legal Text Classification Project](./Legal-Text-Classification/)
 
-### 4. Run the notebook
+---
 
-Open accident_severity_prediction.ipynb and run the cells sequentially.
+### 3. 📊 Customer Risk Analysis Dashboard
+
+An interactive Power BI dashboard focused on customer churn, customer risk, services, contracts, tenure, payment methods, and customer support activity.
+
+**Tool:**
+- Power BI
+
+**Dashboard Pages:**
+- Customer Churn Dashboard
+- Customer Risk Analysis Dashboard
+
+**Key KPIs:**
+- Total Customers: 7,043
+- Churn Rate: 26.54%
+- Yearly Charges: 16.06M
+- Admin Tickets: 3,632
+- Tech Tickets: 2,955
+
+**Project:**
+
+[View Customer Risk Analysis Dashboard](./Customer-Risk-Analysis-Dashboard/)
+
+---
+
+## Skills & Tools
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Natural Language Processing
+- Machine Learning
+- TF-IDF
+- Logistic Regression
+- Random Forest
+- Power BI
+- Data Visualization
+- Data Analysis
+- Jupyter Notebook
+
+---
+
+## Author
+
+**Sakshi Mishra**
+
+GitHub: **sakshi-mishra-ds**
+
+
 
 
